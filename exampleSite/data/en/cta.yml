@@ -1,11 +1,13 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  #bg_image : "images/backgrounds/bg-white-wall.jpg"
-  #bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Let's get in touch
+  content: 'You want to use AI to accelerate your business performance? We offer a
+    free of charge initial assessment of your particular needs and are happy to discuss
+    how AI can help you achieve your goal. '
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Book free introductory call
+    link: "#contact"
