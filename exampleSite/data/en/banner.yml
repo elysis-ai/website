@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: 'images/francis-taylor-hnem8j1jpce-unsplash.jpg'
-  bg_image: 'images/francis-taylor-hnem8j1jpce-unsplash.jpg'
+  bg_image_webp: images/francis-taylor-hnem8j1jpce-unsplash.jpg
+  bg_image: images/francis-taylor-hnem8j1jpce-unsplash.jpg
   icon: ''
   title: Accelerate performance with AI
   content: For our clients we identify, build & deploy state-of-the-art Machine Learning
