@@ -5,8 +5,8 @@ ml_use_cases:
   ml_use_case_item:
   - title: Online-Shops
     subtitle: Predict customer behavior
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/man_with_smartphone_smiling.jpg
+    image_webp: images/man_with_smartphone_smiling.jpg
     categories:
     - design
     content: Recognizing patterns in customer behavior, predicting items and constantly
@@ -18,7 +18,8 @@ ml_use_cases:
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
-    content: Time is best spent on the really important tasks instead of tagging emails. Let the machine sort out the rest with natural language understanding/generation.
+    content: Time is best spent on the really important tasks instead of tagging emails.
+      Let the machine sort out the rest with natural language understanding/generation.
     link: ''
   - title: Logistics
     subtitle: Track items visually
@@ -27,7 +28,9 @@ ml_use_cases:
     categories:
     - design
     - development
-    content: Lost luggage? No more! Support ancient slit-camera tag scanners with with visual baggage tracking using real-time image classification and optical character recognition.
+    content: Lost luggage? No more! Support ancient slit-camera tag scanners with
+      with visual baggage tracking using real-time image classification and optical
+      character recognition.
     link: "#"
   - title: Medicine
     subtitle: Pre-diagnose patients
@@ -36,7 +39,8 @@ ml_use_cases:
     categories:
     - photography
     - development
-    content: It’s complicated to ask the right questions for diagnosing your patient. Let them figure it out themselves - by using a self-guided decision algorithm.
+    content: It’s complicated to ask the right questions for diagnosing your patient.
+      Let them figure it out themselves - by using a self-guided decision algorithm.
     link: "#"
   - title: Fitness
     subtitle: Understand your diet
@@ -44,7 +48,9 @@ ml_use_cases:
     image_webp: images/portfolio/portfolio-5.webp
     categories:
     - design
-    content: Track your diet with a meal snapshot instead of entering nutrition data manually in your smart fitness device. Take a photo and let it figure it out on its own.
+    content: Track your diet with a meal snapshot instead of entering nutrition data
+      manually in your smart fitness device. Take a photo and let it figure it out
+      on its own.
     link: "#"
   - title: Service Scheduling
     subtitle: Predict appointment length
@@ -52,7 +58,8 @@ ml_use_cases:
     image_webp: images/portfolio/portfolio-6.webp
     categories:
     - photography
-    content: Ever had to wait for hours at the doctor’s even though you had a precise appointment? Predict appointment slots based on past performance.
+    content: Ever had to wait for hours at the doctor’s even though you had a precise
+      appointment? Predict appointment slots based on past performance.
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
