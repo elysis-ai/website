@@ -1,0 +1,79 @@
+---
+ml_use_cases:
+  enable: true
+  title: Our Works
+  ml_use_case_item:
+  - title: Online-Shops
+    subtitle: Predict customer behavior
+    image: images/portfolio/portfolio-1.jpg
+    image_webp: images/portfolio/portfolio-1.webp
+    categories:
+    - design
+    content: Recognizing patterns in customer behavior, predicting items and constantly
+      improving that prediction is the next big step in your targeting strategy.
+    link: https://themefisher.com
+  - title: Customer Support
+    subtitle: Accelerate with NLP
+    image: images/portfolio/portfolio-2.jpg
+    image_webp: images/portfolio/portfolio-2.webp
+    categories:
+    - development
+    content: Time is best spent on the really important tasks instead of tagging emails. Let the machine sort out the rest with natural language understanding/generation.
+    link: ''
+  - title: Logistics
+    subtitle: Track items visually
+    image: images/portfolio/portfolio-3.jpg
+    image_webp: images/portfolio/portfolio-3.webp
+    categories:
+    - design
+    - development
+    content: Lost luggage? No more! Support ancient slit-camera tag scanners with with visual baggage tracking using real-time image classification and optical character recognition.
+    link: "#"
+  - title: Medicine
+    subtitle: Pre-diagnose patients
+    image: images/portfolio/portfolio-4.jpg
+    image_webp: images/portfolio/portfolio-4.webp
+    categories:
+    - photography
+    - development
+    content: It’s complicated to ask the right questions for diagnosing your patient. Let them figure it out themselves - by using a self-guided decision algorithm.
+    link: "#"
+  - title: Fitness
+    subtitle: Understand your diet
+    image: images/portfolio/portfolio-5.jpg
+    image_webp: images/portfolio/portfolio-5.webp
+    categories:
+    - design
+    content: Track your diet with a meal snapshot instead of entering nutrition data manually in your smart fitness device. Take a photo and let it figure it out on its own.
+    link: "#"
+  - title: Service Scheduling
+    subtitle: Predict appointment length
+    image: images/portfolio/portfolio-6.jpg
+    image_webp: images/portfolio/portfolio-6.webp
+    categories:
+    - photography
+    content: Ever had to wait for hours at the doctor’s even though you had a precise appointment? Predict appointment slots based on past performance.
+    link: "#"
+  - name: Business Card
+    image: images/portfolio/portfolio-7.jpg
+    image_webp: images/portfolio/portfolio-7.webp
+    categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Stationary Design
+    image: images/portfolio/portfolio-8.jpg
+    image_webp: images/portfolio/portfolio-8.webp
+    categories:
+    - design
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Tag Design
+    image: images/portfolio/portfolio-2.jpg
+    image_webp: images/portfolio/portfolio-2.webp
+    categories:
+    - design
+    - photography
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
