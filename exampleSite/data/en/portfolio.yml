@@ -11,12 +11,14 @@ portfolio:
     content: Recognizing patterns in customer behavior, predicting items and constantly
       improving that prediction is the next big step in your targeting strategy.
     link: https://themefisher.com
-  - name: Sound system
+  - name: Support-Automation
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Manually reading client queries? Accelerate with NLP Time is best spent
+      on the really important tasks instead of tagging emails. Let the machine sort
+      out the rest with natural language understanding/generation.
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
