@@ -14,8 +14,8 @@ ml_use_cases:
     link: https://themefisher.com
   - title: Customer Support
     subtitle: Accelerate with NLP
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/email_slack_laptop.jpg
+    image_webp: images/email_slack_laptop.jpg
     categories:
     - development
     content: Time is best spent on the really important tasks instead of tagging emails.
