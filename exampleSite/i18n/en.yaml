@@ -22,9 +22,11 @@
   translation: Team
 - id: pricing
   translation: Pricing
+- id: home
+  translation: Home
+- id: company
+  translation: Company
 - id: blog
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
