@@ -1,8 +1,8 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  bg_image : images/jellyfish_greenish_bg2_thin2.jpg
+  bg_image_webp : images/jellyfish_greenish_bg2_thin2.jpg
   testimonial_item :
     # testimonial item loop
     - name : Jonathon Andrew

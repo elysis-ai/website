@@ -29,8 +29,7 @@ ml_use_cases:
     - design
     - development
     content: Lost luggage? No more! Support ancient slit-camera tag scanners with
-      with visual baggage tracking using real-time image classification and optical
-      character recognition.
+      with visual baggage tracking using real-time image classification and character recognition.
     link: "#"
   - title: Medicine
     subtitle: Pre-diagnose patients

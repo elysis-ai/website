@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: images/jellyfish_white.jpg
+  bg_image_webp: images/jellyfish_white.jpg
   title: Let's get in touch
   content: 'You want to use AI to accelerate your business performance? We offer a
     free of charge initial assessment of your particular needs and are happy to discuss

@@ -76,7 +76,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = ""
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"

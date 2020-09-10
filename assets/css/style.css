@@ -642,9 +642,10 @@ a:hover {
   background-attachment: fixed;
 }
 
-.call-to-action h2 {
+.call-to-action h2, .call-to-action h3 {
   font-weight: 700;
-  color: #444;
+  /*color: #444;*/
+  color: #1d2024
 }
 
 .call-to-action p {
