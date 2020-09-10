@@ -23,8 +23,8 @@ ml_use_cases:
     link: ''
   - title: Logistics
     subtitle: Track items visually
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: images/airport_baggages.jpg
+    image_webp: images/airport_baggages.jpg
     categories:
     - design
     - development
