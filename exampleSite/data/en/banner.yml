@@ -5,8 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Accelerate performance with AI
-  content: For our clients we identify, build & deploy state-of-the-art  Machine Learning
-    solutions.
+  content: For our clients we identify, build & deploy state-of-the-art Machine Learning
+    solutions to accelerate business performance and productivity.
   button:
     enable: true
     label: Explore Us
