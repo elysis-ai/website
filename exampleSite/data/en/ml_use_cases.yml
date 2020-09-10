@@ -34,8 +34,8 @@ ml_use_cases:
     link: "#"
   - title: Medicine
     subtitle: Pre-diagnose patients
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: images/doctor_patient.jpg
+    image_webp: images/doctor_patient.jpg
     categories:
     - photography
     - development
