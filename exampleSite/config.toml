@@ -25,7 +25,7 @@ url = "/contact"
 weight = 3
 [[menu.static]]
 name = "Blog"
-url = "/blog"
+url = "blog"
 weight = 2
 [[menu.static]]
 name = "Company"
