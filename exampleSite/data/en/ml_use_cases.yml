@@ -44,8 +44,8 @@ ml_use_cases:
     link: "#"
   - title: Fitness
     subtitle: Understand your diet
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: images/woman_eating_burger_cola.jpg
+    image_webp: images/woman_eating_burger_cola.jpg
     categories:
     - design
     content: Track your diet with a meal snapshot instead of entering nutrition data
