@@ -20,13 +20,16 @@ portfolio:
       on the really important tasks instead of tagging emails. Let the machine sort
       out the rest with natural language understanding/generation.
     link: ''
-  - name: Clock Product
+  - name: Visual Item-Tracking
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
     - design
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Lost luggage? A thing of the past with visual baggage tracking. Airports
+      employ thousands of cameras - how could baggage ever get lost? No question,
+      when all you use is an ancient slit-camera tag scanner instead of real-time
+      image classification and optical character recognition.
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
