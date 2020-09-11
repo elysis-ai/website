@@ -1,7 +1,7 @@
 ---
 ml_use_cases:
   enable: true
-  title: What AI can do
+  title: Discover AI
   ml_use_case_item:
   - title: Online-Shops
     subtitle: Predict customer behavior
