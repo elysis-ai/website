@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/maria-teneva-mod3076rrji-unsplash.jpg"
-  image_webp: "/images/maria-teneva-mod3076rrji-unsplash.jpg"
+  image: images/maria-teneva-mod3076rrji-unsplash.jpg
+  image_webp: images/maria-teneva-mod3076rrji-unsplash.jpg
   title: We are Machine Learning Experts
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
     itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
