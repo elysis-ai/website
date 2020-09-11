@@ -54,4 +54,6 @@ team:
     designation: Machine Learning Expert
     content: 'Oliver is a Machine Learning Engineer with a background in Mathematics
       and a leading expert in natural language processing technologies. '
-    social: ''
+    social:
+    - icon: ''
+      link: ''
