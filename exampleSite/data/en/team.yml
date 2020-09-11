@@ -8,7 +8,7 @@ team:
     image: images/team/team-1.jpg
     designation: CEO/Founder
     content: Johannes is a Data Scientist with a background in strategy consulting.
-      He is a Python native and started coding over 20 years ago.
+      He started coding over 20 years ago.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
