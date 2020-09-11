@@ -4,13 +4,6 @@ testimonial:
   bg_image: images/jellyfish_greenish_bg2_thin2.jpg
   bg_image_webp: images/jellyfish_greenish_bg2_thin2.jpg
   testimonial_item:
-  - name: Florian Schwenkert
-    image: images/0.jpeg
-    image_webp: images/0.jpeg
-    date: COO @  KoRo Handels GmbH
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
   - name: Raid Naim
     image: images/0-1.jpeg
     image_webp: images/0-1.jpeg
@@ -18,10 +11,22 @@ testimonial:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Jan Dzulko
+    image: images/jan_everphone.jpeg
+    image_webp: images/jan_everphone.jpeg
+    date: CEO @ everphone GmbH
+    content: lorum blablbalba lorum blablbalbalorum blablbalba
   - name: Dr. Gillian Holdsworth
     image: images/gillian_holdsworth-7d5c40a5a9df3dbd3a90e0af0650a28d19306c5497ca64cfee7c2251da3ee7b4.png
     image_webp: images/gillian_holdsworth-7d5c40a5a9df3dbd3a90e0af0650a28d19306c5497ca64cfee7c2251da3ee7b4.png
     date: Director @ SH24 CIC
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
+      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Florian Schwenkert
+    image: images/0.jpeg
+    image_webp: images/0.jpeg
+    date: COO @  KoRo Handels GmbH
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
       aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
