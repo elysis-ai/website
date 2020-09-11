@@ -5,8 +5,8 @@ ml_use_cases:
   ml_use_case_item:
   - title: Online-Shops
     subtitle: Predict customer behavior
-    image: images/man_with_smartphone_smiling.jpg
-    image_webp: images/man_with_smartphone_smiling.jpg
+    image: images/man_with_smartphone_smiling_filter.jpg
+    image_webp: images/man_with_smartphone_smiling_filter.jpg
     categories:
     - design
     content: Recognizing patterns in customer behavior, predicting items and constantly
@@ -14,8 +14,8 @@ ml_use_cases:
     link: https://themefisher.com
   - title: Customer Support
     subtitle: Accelerate with NLP
-    image: images/email_slack_laptop.jpg
-    image_webp: images/email_slack_laptop.jpg
+    image: images/email_slack_laptop_filter.jpg
+    image_webp: images/email_slack_laptop_filter.jpg
     categories:
     - development
     content: Time is best spent on the really important tasks instead of tagging emails.
@@ -23,8 +23,8 @@ ml_use_cases:
     link: ''
   - title: Logistics
     subtitle: Track items visually
-    image: images/airport_baggages2.jpg
-    image_webp: images/airport_baggages2.jpg
+    image: images/airport_baggages_filter.jpg
+    image_webp: images/airport_baggages_filter.jpg
     categories:
     - design
     - development
