@@ -36,9 +36,9 @@ team:
   - name: Darina O.
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Image Recognition Expert
-    content: 'Darina is a Data Scientist with a background in innovation management
-      and a leading expert in the field of image recognition technologies. '
+    designation: Deep Learning Specialist
+    content: 'Darina is a Data Scientist with a background and a leading expert in
+      the field of image recognition technologies. '
     social:
     - icon: ti-facebook
       link: "#"
