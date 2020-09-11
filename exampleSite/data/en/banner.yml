@@ -10,4 +10,4 @@ banner:
   button:
     enable: true
     label: Get in touch
-    link: "#services"
+    link: "#ml_use_cases"
