@@ -39,7 +39,7 @@ ml_use_cases:
     - photography
     - development
     content: It’s complicated to ask the right questions for diagnosing your patient.
-      Let them figure it out themselves - by using a self-guided decision algorithm.
+      Let them figure it out themselves - by using a self-guided intelligent anamnesis app.
     link: "#"
   - title: Fitness
     subtitle: Understand your diet
