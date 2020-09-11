@@ -24,17 +24,9 @@ name = "home"
 URL = "/"
 weight = 1
 [[menu.static]]
-name = "company"
-URL = "/company"
-weight = 2
-[[menu.static]]
 name = "blog"
 URL = "/blog"
-weight = 3
-[[menu.static]]
-name = "contact"
-URL = "/contact"
-weight = 4
+weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

@@ -10,7 +10,7 @@
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<h2>{{ .title | markdownify }}</h2>
-				<h3 style="text-align: justify">{{ .content | markdownify }}</h3>
+				<p>{{ .content | markdownify }}</p>
 				{{ if .button.enable }}
 				{{ with .button }}
 				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
