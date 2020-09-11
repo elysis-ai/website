@@ -33,12 +33,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
+  - name: Darina O.
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Image Recognition Expert
+    content: 'Darina is a Data Scientist with a background in innovation management
+      and a leading expert in the field of image recognition technologies. '
     social:
     - icon: ti-facebook
       link: "#"
