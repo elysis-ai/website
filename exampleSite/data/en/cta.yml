@@ -7,5 +7,5 @@ cta:
   content: Together we can discuss how AI can help you to increase your business performance.
   button:
     enable: true
-    label: Book free introductory call
+    label: Get in touch!
     link: "#contact"
