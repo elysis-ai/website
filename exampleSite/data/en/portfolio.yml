@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: What AI can do for you
   portfolio_item:
   - name: User-Targeting
     image: images/portfolio/portfolio-1.jpg
