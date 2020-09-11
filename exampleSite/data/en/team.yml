@@ -34,8 +34,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Darina O.
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
+    image_webp: images/team/team-4.jpg
+    image: images/team/team-4.jpg
     designation: Deep Learning Specialist
     content: 'Darina is a Data Scientist with a background and a leading expert in
       the field of image recognition technologies. '
