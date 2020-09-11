@@ -3,10 +3,9 @@ cta:
   enable: true
   bg_image: images/jellyfish_white.jpg
   bg_image_webp: images/jellyfish_white.jpg
-  title: Let's get in touch
-  content: 'You want to use AI to accelerate your business performance? We offer a
-    free of charge initial assessment of your particular needs and are happy to discuss
-    how AI can help you achieve your goal. '
+  title: 'You want to use AI to accelerate productivity? '
+  content: 'Let''s get in touch! We offer a free of charge initial assessment of your
+    particular needs. And are happy to discuss how AI can help you achieve your goal. '
   button:
     enable: true
     label: Book free introductory call
