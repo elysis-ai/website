@@ -48,18 +48,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+  - name: Oliver Sieveke
+    image_webp: ''
+    image: ''
+    designation: Machine Learning Expert
+    content: 'Oliver is a Machine Learning Engineer with a background in Mathematics
+      and a leading expert in natural language processing technologies. '
+    social: ''
