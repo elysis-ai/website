@@ -34,8 +34,8 @@ ml_use_cases:
     link: "#"
   - title: Medicine
     subtitle: Pre-diagnose patients
-    image: images/doctor_patient.jpg
-    image_webp: images/doctor_patient.jpg
+    image: images/doctor_patient_filter.jpg
+    image_webp: images/doctor_patient_filter.jpg
     categories:
     - photography
     - development
@@ -45,8 +45,8 @@ ml_use_cases:
     link: "#"
   - title: Fitness
     subtitle: Understand your diet
-    image: images/people_eating.jpg
-    image_webp: images/people_eating.jpg
+    image: images/people_eating_filter.jpg
+    image_webp: images/people_eating_filter.jpg
     categories:
     - design
     content: Track your diet with a meal snapshot instead of entering nutrition data
@@ -55,8 +55,8 @@ ml_use_cases:
     link: "#"
   - title: Service Scheduling
     subtitle: Predict appointment length
-    image: images/martha-dominguez-de-gouveia-g0ptp89dumc-unsplash.jpg
-    image_webp: images/martha-dominguez-de-gouveia-g0ptp89dumc-unsplash.jpg
+    image: images/queue_filter.jpg
+    image_webp: images/queue_filter.jpg
     categories:
     - photography
     content: Ever had to wait for hours at the doctor’s even though you had a precise
