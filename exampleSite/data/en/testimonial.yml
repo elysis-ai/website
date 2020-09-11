@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/jellyfish_greenish_bg2_thin2.jpg
   testimonial_item:
   - name: Florian Schwenkert
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image: "/images/0.jpeg"
+    image_webp: "/images/0.jpeg"
     date: COO @  KoRo Handels GmbH
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
       minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
