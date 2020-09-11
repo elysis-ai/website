@@ -5,8 +5,9 @@ banner:
   bg_image: images/jellyfish_greenish_bg.jpg
   icon: ''
   title: Accelerate performance with AI
-  content: For our clients we identify, build & deploy state-of-the-art Machine Learning
-    solutions to accelerate productivity in multiple areas and industries.
+  content: |-
+    We identify, build & deploy state-of-the-art Machine Learning solutions.
+    For our clients we accelerate productivity in multiple areas and industries.
   button:
     enable: true
     label: Get in touch
