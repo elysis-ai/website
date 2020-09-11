@@ -49,8 +49,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Oliver Sieveke
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
     designation: Machine Learning Expert
     content: 'Oliver is a Machine Learning Engineer with a background in Mathematics
       and a leading expert in natural language processing technologies. '
