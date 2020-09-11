@@ -49,5 +49,5 @@ team:
     content: 'Oliver is a Machine Learning Engineer with a background in Mathematics
       and expert in natural language processing. '
     social:
-    - icon: ''
-      link: ''
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/oliver-sieweke/
