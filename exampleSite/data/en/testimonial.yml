@@ -4,6 +4,11 @@ testimonial:
   bg_image: images/jellyfish_greenish_bg2_thin2.jpg
   bg_image_webp: images/jellyfish_greenish_bg2_thin2.jpg
   testimonial_item:
+  - name: Jan Dzulko
+    image: images/jan_everphone.jpeg
+    image_webp: images/jan_everphone.jpeg
+    date: CEO @ everphone GmbH
+    content: lorum blablbalba
   - name: Florian Schwenkert
     image: images/0.jpeg
     image_webp: images/0.jpeg
