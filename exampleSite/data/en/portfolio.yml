@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Discover AI
   portfolio_item:
   - name: User-Targeting
     image: images/portfolio/portfolio-1.jpg
