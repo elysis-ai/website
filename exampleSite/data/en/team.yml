@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Technology Experts
   team_member:
   - name: Johannes Hollmann
     image_webp: images/team/team-1.webp
