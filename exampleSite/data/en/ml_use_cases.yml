@@ -1,7 +1,7 @@
 ---
 ml_use_cases:
   enable: true
-  title: AI Solutions
+  title: Machine Learning
   ml_use_case_item:
   - title: Logistics
     subtitle: Track items visually
