@@ -27,8 +27,9 @@ team:
     image_webp: images/team/team-4.jpg
     image: images/team/team-4.jpg
     designation: Deep Learning Specialist
-    content: 'Darina is a Data Scientist with a background and a leading expert in
-      the field of image recognition technologies. '
+    content: 'Darina is a Data Scientist with a background in Innovation. She is a
+      leading expert in the field of image recognition technologies. Among others
+      Darina developed intelligent quality control systems for the coffee industry. '
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/darina-onoprienko/
