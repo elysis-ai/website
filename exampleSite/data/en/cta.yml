@@ -4,7 +4,8 @@ cta:
   bg_image: images/jellyfish_white.jpg
   bg_image_webp: images/jellyfish_white.jpg
   title: Let's get started!
-  content: Together we can discuss how AI can help your business to increase performance.
+  content: Together we can discuss how your data and AI technologies can help your
+    business to increase performance.
   button:
     enable: true
     label: Get in touch
