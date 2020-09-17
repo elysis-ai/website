@@ -17,8 +17,8 @@ team:
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
     designation: CEO/Founder
-    content: Johanna is a Machine Learning Engineer with a background in IT-Development
-      and over 20 years of coding experience.
+    content: Johanna is a Machine Learning Engineer with a background in IT-Development.
+      She has over a decade of experience working with complex software systems.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johannaappel/
