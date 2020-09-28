@@ -1,8 +1,18 @@
 ---
 ml_use_cases:
   enable: true
-  title: AI Solutions
+  title: Machine Learning
   ml_use_case_item:
+  - title: Logistics
+    subtitle: Track items visually
+    image: images/airport_baggages_filter.jpg
+    image_webp: images/airport_baggages_filter.jpg
+    categories:
+    - design
+    - development
+    content: Lost luggage? No more! Support ancient slit-camera tag scanners with
+      visual baggage tracking using real-time image classification and character recognition.
+    link: "#"
   - title: Online-Shops
     subtitle: Predict customer behavior
     image: images/man_with_smartphone_smiling_filter.jpg
@@ -21,15 +31,6 @@ ml_use_cases:
     content: Time is best spent on the really important tasks instead of tagging emails.
       Let the machine sort out the rest with natural language understanding/generation.
     link: ''
-  - title: Logistics
-    subtitle: Track items visually
-    image: images/airport_baggages_filter.jpg
-    image_webp: images/airport_baggages_filter.jpg
-    categories:
-    - design
-    - development
-    content: Lost luggage? No more! Support ancient slit-camera tag scanners with visual baggage tracking using real-time image classification and character recognition.
-    link: "#"
   - title: Medicine
     subtitle: Pre-diagnose patients
     image: images/doctor_patient_filter.jpg
@@ -37,7 +38,8 @@ ml_use_cases:
     categories:
     - photography
     - development
-    content: It’s complicated and time-consuming to ask the right questions for diagnosing your patient. Let a self-guided intelligent anamnesis app figure it out instead.
+    content: It’s complicated and time-consuming to ask the right questions for diagnosing
+      your patient. Let a self-guided intelligent anamnesis app figure it out instead.
     link: "#"
   - title: Fitness
     subtitle: Understand your diet

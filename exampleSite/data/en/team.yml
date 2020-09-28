@@ -1,14 +1,15 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Technology Experts
   team_member:
   - name: Johannes Hollmann
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: CEO/Founder
-    content: Johannes is a Data Scientist with a background in strategy consulting.
-      He started coding over 20 years ago.
+    content: Johannes is a Data Specialist with a strong background in Transformation
+      Management. For over a decade he handles massive amounts of data to drive productivity.
+      He started coding 20 years ago.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
@@ -16,8 +17,9 @@ team:
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
     designation: CEO/Founder
-    content: Johanna is a Machine Learning Engineer with a background in IT-Development
-      and over 20 years of coding experience.
+    content: Johanna is a Machine Learning Engineer with a background in Mathematics
+      and Innovation. She develops complex software systems, web platforms and intelligent
+      applications for international organizations.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johannaappel/
@@ -25,8 +27,9 @@ team:
     image_webp: images/team/team-4.jpg
     image: images/team/team-4.jpg
     designation: Deep Learning Specialist
-    content: 'Darina is a Data Scientist with a background and a leading expert in
-      the field of image recognition technologies. '
+    content: 'Darina is a Data Scientist with a background in Innovation. She is a
+      leading expert in the field of image recognition technologies. Among others
+      Darina developed intelligent quality control systems for the coffee industry. '
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/darina-onoprienko/
