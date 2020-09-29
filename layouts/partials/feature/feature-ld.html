@@ -1,0 +1,7 @@
+{{ if .Params.feature.enable }}
+{{ with .Params.feature }}
+
+	{{ partial "feature/feature-base.html" . }}
+
+{{ end }}
+{{ end }}

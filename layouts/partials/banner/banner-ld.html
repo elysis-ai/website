@@ -1,0 +1,7 @@
+{{ if .Params.banner.enable }}
+{{ with .Params.banner }}
+
+	{{ partial "banner/banner-base.html" . }}
+
+{{end}}
+{{end}}
