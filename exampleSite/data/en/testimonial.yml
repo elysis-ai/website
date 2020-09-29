@@ -1,6 +1,7 @@
 ---
 testimonial:
   enable: true
+  title: Customer Voices
   bg_image: images/jellyfish_greenish_bg2_thin2.jpg
   bg_image_webp: images/jellyfish_greenish_bg2_thin2.jpg
   testimonial_item:
