@@ -6,18 +6,23 @@ contact:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
   contact_list:
   - icon: ti-location-pin
-    info: xyz, Schinkestr. 14, 12047 Berlin
-  - icon: ti-phone
-    info: 'Phone: +49 251 981 156 275 6'
+    info: 'WhiteLake.ai Hollmann & Appel GbR, Schinkestr. 14, 12047 Berlin'
+  - icon: ti-mobile
+    info: 'Direct line: <a href="tel:+492519811562756">+49 251 981 156 275 6</a>'
+
+  contact_buttons:
+  - icon: ti-calendar
+    link: 'https://example.com'
+    title: Book A Call
+    text: 'In our calendar'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
-  contact_form:
-    enable: true
-    form_action: "#"
-    name: Your Name
-    email: Your Email
-    subject: Subject
-    message: Message
-    submit: Submit
+    link: 'mailto:hello@whitelake.ai'
+    title: Email Us
+    text: 'hello@whitelake.ai'
+  - icon: ti-linkedin
+    link: 'https://www.linkedin.com/in/johannaappel/'
+    title: Connect
+    text: 'On LinkedIn'
