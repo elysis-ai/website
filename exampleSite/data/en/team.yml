@@ -4,8 +4,8 @@ team:
   title: Technology Experts
   team_member:
   - name: Johannes Hollmann
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: images/jh_square_nobg.png
+    image: images/jh_square_nobg.png
     designation: CEO/Founder
     content: Johannes is a Data Specialist with a strong background in Transformation
       Management. For over a decade he handles massive amounts of data to drive productivity.
