@@ -24,8 +24,8 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johannaappel/
   - name: Darina Onoprienko
-    image_webp: images/team/team-4.jpg
-    image: images/team/team-4.jpg
+    image_webp: images/do_square_nobg.png
+    image: images/do_square_nobg.png
     designation: Deep Learning Specialist
     content: 'Darina is a Data Scientist with a background in Innovation. She is a
       leading expert in the field of image recognition technologies. Among others
