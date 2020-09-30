@@ -14,12 +14,12 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
   - name: Johanna Appel
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: images/ja_square_nobg.png
+    image: images/ja_square_nobg.png
     designation: CEO/Founder
-    content: Johanna is a Machine Learning Engineer with a background in Mathematics
-      and Innovation. She develops complex software systems, web platforms and intelligent
-      applications for international organizations.
+    content: Johanna is a Machine Learning Engineer with a background in IT, Mathematics
+      and Innovation Management. She develops complex software systems, web platforms
+      and intelligent applications for international organizations.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johannaappel/
