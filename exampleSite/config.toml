@@ -24,8 +24,8 @@ name = "contact"
 URL = "contact"
 weight = 1
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "WhiteLake.ai"
+description = "Leverage data, generate business value"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
