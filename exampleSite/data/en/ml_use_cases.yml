@@ -6,7 +6,7 @@ ml_use_cases:
   - title: Logistics
     subtitle: Track items visually
     image: images/airport_baggages_filter.jpg
-    image_webp: images/airport_baggages_filter.jpg
+    image_webp: images/airport_baggages_filter.webp
     categories:
     - design
     - development
@@ -16,7 +16,7 @@ ml_use_cases:
   - title: Online-Shops
     subtitle: Predict customer behavior
     image: images/man_with_smartphone_smiling_filter.jpg
-    image_webp: images/man_with_smartphone_smiling_filter.jpg
+    image_webp: images/man_with_smartphone_smiling_filter.webp
     categories:
     - design
     content: Recognizing patterns in customer behavior, predicting items and constantly
@@ -25,7 +25,7 @@ ml_use_cases:
   - title: Customer Support
     subtitle: Accelerate with NLP
     image: images/email_slack_laptop_filter.jpg
-    image_webp: images/email_slack_laptop_filter.jpg
+    image_webp: images/email_slack_laptop_filter.webp
     categories:
     - development
     content: Time is best spent on the really important tasks instead of tagging emails.
@@ -34,7 +34,7 @@ ml_use_cases:
   - title: Medicine
     subtitle: Pre-diagnose patients
     image: images/doctor_patient_filter.jpg
-    image_webp: images/doctor_patient_filter.jpg
+    image_webp: images/doctor_patient_filter.webp
     categories:
     - photography
     - development
@@ -44,7 +44,7 @@ ml_use_cases:
   - title: Fitness
     subtitle: Understand your diet
     image: images/people_eating_filter.jpg
-    image_webp: images/people_eating_filter.jpg
+    image_webp: images/people_eating_filter.webp
     categories:
     - design
     content: Track your diet with a meal snapshot instead of entering nutrition data
@@ -54,7 +54,7 @@ ml_use_cases:
   - title: Service Scheduling
     subtitle: Predict appointment length
     image: images/queue_filter.jpg
-    image_webp: images/queue_filter.jpg
+    image_webp: images/queue_filter.webp
     categories:
     - photography
     content: Ever had to wait for hours at the doctor’s even though you had a precise
