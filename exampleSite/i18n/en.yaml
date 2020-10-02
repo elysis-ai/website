@@ -31,3 +31,5 @@
   translation: Blog
 - id: contact
   translation: Contact Us
+- id: imprint
+  translation: Imprint
