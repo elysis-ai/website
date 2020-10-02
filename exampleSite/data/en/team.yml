@@ -4,17 +4,15 @@ team:
   title: Technology Experts
   team_member:
   - name: Johannes Hollmann
-    image_webp: images/jh_square_nobg.png
+    image_webp: images/jh_square_nobg.webp
     image: images/jh_square_nobg.png
     designation: CEO/Founder
-    content: Johannes is a Data Specialist with a strong background in Transformation
-      Management. For over a decade he handles massive amounts of data to drive productivity.
-      He started coding 20 years ago.
+    content: Johannes is a Data Specialist with a strong background in Transformation Management. For over a decade he handles massive amounts of data to drive productivity. He started coding 20 years ago.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
   - name: Johanna Appel
-    image_webp: images/ja_square_nobg.png
+    image_webp: images/ja_square_nobg.webp
     image: images/ja_square_nobg.png
     designation: CEO/Founder
     content: Johanna is a Machine Learning Engineer with a background in IT, Mathematics
@@ -24,7 +22,7 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johannaappel/
   - name: Darina Onoprienko
-    image_webp: images/do_square_nobg.png
+    image_webp: images/do_square_nobg.webp
     image: images/do_square_nobg.png
     designation: Deep Learning Specialist
     content: 'Darina is a Data Scientist with a background in Innovation. She is a
@@ -34,7 +32,7 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/darina-onoprienko/
   - name: Oliver Sieveke
-    image_webp: images/os_square_nobg.png
+    image_webp: images/os_square_nobg.webp
     image: images/os_square_nobg.png
     designation: Machine Learning Expert
     content: Oliver is a Machine Learning Engineer and expert in natural language
@@ -43,3 +41,19 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/oliver-sieweke/
+  - name: Laura Drasovean
+    image_webp: images/LD_square_nobg.webp
+    image: images/LD_square_nobg.png
+    designation: Junior Data Scientist
+    content: Laura is a data scientist with a background in archeology. She is an expert in geo-location and image data analysis and has been working with terabytes of data generated at archeological sites.
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/laura-drasovean-5983a3171/
+  - name: Leon Lowitzki
+    image_webp: images/team/team-1.webp
+    image: images/team/team-1.png
+    designation: Data Science Expert
+    content: Leon specializes in big data analysis and machine learning at scale. In one of his projects, he created a motion sensor-based authentication mechanism. Leon also teaches Data Science at the HWR Berlin.
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/leon-lowitzki/
