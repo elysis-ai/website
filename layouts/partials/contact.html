@@ -16,32 +16,16 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{"<!-- Contact Details -->" | safeHTML}}
-			<div class="contact-info col-lg-9 wow fadeInUp" data-wow-duration="500ms">
-				<h3>{{ .subtitle | markdownify }}</h3>
-				<p> {{ .content | markdownify }} </p>
-
-				<div class="contact-details">
-					{{ range .contact_list }}
-					<div class="con-info clearfix">
-						<i class="{{ .icon }}"></i>
-						<span>{{ .info | safeHTML }}</span>
-					</div>
-					{{ end }}
-				</div>
-			</div>
-
-
 			{{"<!-- Contact -->" | safeHTML}}
 	    <div class="about container">
 	  	<div class="row justify-content-center">
 			{{ range .contact_buttons }}
 			{{"<!-- Contact item -->" | safeHTML}}
-			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+			<div class="col-lg-3 text-center wow fadeInUp" data-wow-duration="500ms">
 			  <a href="{{ .link }}">
-				<div style="margin: 32px" class="block">
+				<div style="margin: 16px; padding: 24px;" class="block">
 					{{with .icon}}<i style="font-size: 48px" class="{{ . }}"></i>{{ end }}
-					<div style="margin-top: 32px" class="content text-center">
+					<div style="margin-top: 24px" class="content text-center">
 						<h3>{{ .title }}</h3>
 						<p>{{ .text }}</p>
 					</div>

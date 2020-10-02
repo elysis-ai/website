@@ -2,22 +2,16 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
-  contact_list:
-  - icon: ti-location-pin
-    info: 'WhiteLake.ai Hollmann & Appel GbR, Schinkestr. 14, 12047 Berlin'
-  - icon: ti-mobile
-    info: 'Direct line: <a href="tel:+492519811562756">+49 251 981 156 275 6</a>'
 
   contact_buttons:
+  - icon: ti-mobile
+    link: 'tel:+492519811562756'
+    title: Call Us
+    text: '+49 251 981 156 275 6'
   - icon: ti-calendar
     link: 'https://example.com'
-    title: Book A Call
-    text: 'In our calendar'
+    title: Book Us
+    text: 'Through our calendar'
   - icon: ti-email
     link: 'mailto:hello@whitelake.ai'
     title: Email Us
