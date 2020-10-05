@@ -7,35 +7,41 @@ ml_use_cases:
     subtitle: Track items visually
     image: images/airport_baggages_filter.jpg
     image_webp: images/airport_baggages_filter.webp
-    content: Lost luggage? No more! Support ancient slit-camera tag scanners with visual baggage tracking using real-time image classification and character recognition.
+    content: Lost luggage? No more! Support ancient slit-camera tag scanners with
+      visual baggage tracking using real-time image classification and character recognition.
     link: "#"
-  - title: Online-Shops
-    subtitle: Predict customer behavior
-    image: images/woman_with_smartphone_smiling_filter.jpg
-    image_webp: images/woman_with_smartphone_smiling_filter.webp
-    content: Recognizing patterns in customer behavior, predicting items and constantly improving that prediction is the next big step in your targeting strategy.
-    link: https://themefisher.com
   - title: Customer Support
     subtitle: Accelerate with NLP
     image: images/email_slack_laptop_filter.jpg
     image_webp: images/email_slack_laptop_filter.webp
-    content: Time is best spent on the really important tasks instead of tagging emails. Let the machine sort out the rest with natural language understanding/generation.
+    content: Time is best spent on the really important tasks instead of tagging emails.
+      Let the machine sort out the rest with natural language understanding/generation.
     link: ''
+  - title: Online-Shops
+    subtitle: Predict customer behavior
+    image: images/woman_with_smartphone_smiling_filter.jpg
+    image_webp: images/woman_with_smartphone_smiling_filter.webp
+    content: Recognizing patterns in customer behavior, predicting items and constantly
+      improving that prediction is the next big step in your targeting strategy.
+    link: https://themefisher.com
   - title: Medicine
     subtitle: Pre-diagnose patients
     image: images/doctor_patient_filter.jpg
     image_webp: images/doctor_patient_filter.webp
-    content: It’s complicated and time-consuming to ask the right questions for diagnosing a patient. Let a self-guided intelligent anamnesis app figure it out instead.
+    content: It’s complicated and time-consuming to ask the right questions for diagnosing
+      a patient. Let a self-guided intelligent anamnesis app figure it out instead.
     link: "#"
   - title: Fitness
     subtitle: Understand users diets
     image: images/people_eating_filter.jpg
     image_webp: images/people_eating_filter.webp
-    content: Entering nutrition data manually will annoy your users rather than encourage them to stay fit. Use a photo instead, and let the machine do the rest.
+    content: Entering nutrition data manually will annoy your users rather than encourage
+      them to stay fit. Use a photo instead, and let the machine do the rest.
     link: "#"
   - title: Service Scheduling
     subtitle: Predict appointment length
     image: images/queue_filter.jpg
     image_webp: images/queue_filter.webp
-    content: Ever had customers waiting for hours even though they had a precise appointment? Predict appointment slots based on past performance.
+    content: Ever had customers waiting for hours even though they had a precise appointment?
+      Predict appointment slots based on past performance.
     link: "#"
