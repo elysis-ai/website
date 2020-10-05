@@ -1,25 +1,27 @@
 <!-- This is taken from https://cookieconsent.insites.com -->
 
-<link rel="stylesheet" type="text/css" href="{{ `js/cookieconsent2/3.1.0/cookieconsent.min.css` | relURL }}" />
-<script src="{{ `js/cookieconsent2/3.1.0/cookieconsent.min.js` | relURL }}"></script>
-
 <script>
 window.addEventListener("load", function(){
 window.cookieconsent.initialise({
   "palette": {
     "popup": {
-      "background": "#181842"
+      "background": "#1d2024"
     },
     "button": {
-      "background": "#8fc9b5"
+      "background": "#57cbcc"
     }
   },
+	"type": "opt-in",
   "position": "bottom-right",
   "content": {
-    "message": "This text is to be replaced by a better (translated) version.",
-    "dismiss": "Alrightili!",
-    "link": "Elaborate!",
-    "href": "/dataprivacy"
-  }
+		"allow": "Allow",
+		"deny": "Deny",
+    "message": "This website uses cookies to improve your experience.",
+    "link": "More Infos.",
+    "href": "/info/dataprivacy"
+  },
+	"onStatusChange": function(a) {
+		this.hasConsented() ? console.log("ALLOWED COOKIES") : console.log("DENIES COOKIES")
+	}
 })});
 </script>

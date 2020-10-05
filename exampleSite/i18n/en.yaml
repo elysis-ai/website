@@ -33,3 +33,5 @@
   translation: Contact Us
 - id: imprint
   translation: Imprint
+- id: dataprivacy
+  translation: Data Privacy

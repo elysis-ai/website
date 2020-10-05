@@ -21,12 +21,7 @@ testimonial:
     image: images/gillian_holdsworth.png
     image_webp: images/gillian_holdsworth.webp
     date: Director @ SH24 CIC
-    content: "WhiteLake helped us with machine learning technology and advanced
-      statistical analysis to optimize our user support communications. The cooperation
-      was super efficient and highly professional. Right now we are implementing their
-      recommendations to accelerate the performance of our support team.  I  have
-      no hesitation in recommending them to any other organizations who seek to streamline
-      their operations and improve their efficiency."
+    content: "WhiteLake helped us to save costs and improve our customer support experience. They found ways to accelerate the performance of our support team by conducting advanced statistical analysis on our data and leveraging machine learning technology."
       #  - name: Florian Schwenkert
       #    image: images/florian_schwenkert.jpeg
       #    image_webp: images/florian_schwenkert.jpeg

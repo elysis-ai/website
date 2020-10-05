@@ -9,7 +9,6 @@ Schinkestraße 14
 Telefon:  0251 / 981 156 275 6  
 E-Mail: hello@whitelake.ai  
 Website: whitelake.ai
- 
 
 **Bei redaktionellen Inhalten:**  
 Verantwortlich nach § 55 Abs.2 RStV  
