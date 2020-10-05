@@ -3,9 +3,9 @@ cta:
   enable: true
   bg_image: images/jellyfish_white.jpg
   bg_image_webp: images/jellyfish_white.webp
-  title: Let's get started!
-  content: Together we can discuss how your data and Machine Learning technologies
-    can help your organization to increase performance.
+  title: Are you planning an analytics or AI project?
+  content: Together we can discuss how your data combined with machine learning technologies
+    can increase the performance of your organization.
   button:
     enable: true
     label: Get in touch
