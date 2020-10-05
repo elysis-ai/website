@@ -1,0 +1,25 @@
+<!-- This is taken from https://cookieconsent.insites.com -->
+
+<link rel="stylesheet" type="text/css" href="{{ `js/cookieconsent2/3.1.0/cookieconsent.min.css` | relURL }}" />
+<script src="{{ `js/cookieconsent2/3.1.0/cookieconsent.min.js` | relURL }}"></script>
+
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#181842"
+    },
+    "button": {
+      "background": "#8fc9b5"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "message": "This text is to be replaced by a better (translated) version.",
+    "dismiss": "Alrightili!",
+    "link": "Elaborate!",
+    "href": "/dataprivacy"
+  }
+})});
+</script>
