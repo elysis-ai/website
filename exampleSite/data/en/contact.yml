@@ -7,14 +7,14 @@ contact:
     link: https://example.com
     title: INTRO CALL
     text: Book Free Intro Call
+  - icon: ti-email
+    link: mailto:hello@whitelake.ai
+    title: EMAIL US
+    text: hello@whitelake.ai
   - icon: ti-mobile
     link: tel:+492519811562756
     title: Call Us
     text: "+49 251 981 156 275 6"
-  - icon: ti-email
-    link: mailto:hello@whitelake.ai
-    title: Email Us
-    text: hello@whitelake.ai
   - icon: ti-linkedin
     link: https://www.linkedin.com/in/johannaappel/
     title: Connect
