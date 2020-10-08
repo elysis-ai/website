@@ -7,7 +7,9 @@ team:
     image_webp: images/jh_square_nobg.webp
     image: images/jh_square_nobg.png
     designation: CEO/Founder
-    content: Johannes is a Data Specialist with a strong background in Transformation Management. For over a decade he handles massive amounts of data to drive productivity. He started coding 20 years ago.
+    content: 'Johannes is a Data Specialist with a strong background in Transformation
+      Management. For over a decade he handles massive amounts of data to drive productivity
+      for international companies and corporations. '
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
@@ -45,7 +47,9 @@ team:
     image_webp: images/LD_square_nobg.webp
     image: images/LD_square_nobg.png
     designation: Junior Data Scientist
-    content: Laura is a data scientist with a background in archeology. She is an expert in geo-location and image data analysis and has been working with terabytes of data generated at archeological sites.
+    content: Laura is a data scientist with a background in archeology. She is an
+      expert in geo-location and image data analysis and has been working with terabytes
+      of data generated at archeological sites.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/laura-drasovean-5983a3171/
@@ -53,7 +57,9 @@ team:
     image_webp: images/LL_profile_nobg.webp
     image: images/LL_profile_nobg.png
     designation: Data Science Expert
-    content: Leon specializes in big data analysis and machine learning at scale. In one of his projects, he created a motion sensor-based authentication mechanism. Leon also teaches Data Science at the HWR Berlin.
+    content: Leon specializes in big data analysis and machine learning at scale.
+      In one of his projects, he created a motion sensor-based authentication mechanism.
+      Leon also teaches Data Science at the HWR Berlin.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/leon-lowitzki/
