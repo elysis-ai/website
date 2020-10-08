@@ -11,11 +11,11 @@ contact:
     link: mailto:hello@whitelake.ai
     title: EMAIL US
     text: hello@whitelake.ai
+  - icon: ti-linkedin
+    link: https://www.linkedin.com/in/johannaappel/
+    title: LINKEDIN
+    text: Let's connect today
   - icon: ti-mobile
     link: tel:+492519811562756
     title: Call Us
     text: "+49 251 981 156 275 6"
-  - icon: ti-linkedin
-    link: https://www.linkedin.com/in/johannaappel/
-    title: Connect
-    text: On LinkedIn
