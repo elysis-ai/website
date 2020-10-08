@@ -22,7 +22,7 @@
 			{{ range .contact_buttons }}
 			{{"<!-- Contact item -->" | safeHTML}}
 			<div class="col-lg-3 text-center wow fadeInUp" data-wow-duration="500ms">
-			  <a href="{{ .link }}">
+			  <a href="{{ .link | safeURL }}">
 				<div style="margin: 16px; padding: 24px;" class="block">
 					{{with .icon}}<i style="font-size: 48px" class="{{ . }}"></i>{{ end }}
 					<div style="margin-top: 24px" class="content text-center">
