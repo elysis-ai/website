@@ -13,6 +13,8 @@
   translation: Author's posts
 - id: all
   translation: All
+- id: applied_ai
+  translation: Applied AI
 - id: about
   translation: About Us
 - id: services

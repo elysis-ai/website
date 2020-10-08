@@ -20,9 +20,21 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "applied_ai"
+URL = "ml_use_cases"
+weight = 1
+[[menu.main]]
+name = "about"
+URL = "feature"
+weight = 2
+[[menu.main]]
+name = "blog"
+URL = "blog"
+weight = 3
+[[menu.main]]
 name = "contact"
 URL = "contact"
-weight = 1
+weight = 4
 [params]
 author = "WhiteLake.ai"
 description = "Leverage data, generate business value"

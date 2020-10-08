@@ -482,7 +482,7 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
+  font-size: 5em;
   color: #fff;
   text-transform: capitalize;
   font-weight: 700;
@@ -491,15 +491,21 @@ a:hover {
 
 @media (max-width: 480px) {
   .hero-area .block h1 {
-    font-size: 48px;
+    font-size: 2.6em;
   }
 }
 
 .hero-area .block p {
   color: #fff;
-  font-size: 20px;
+  font-size: 2em;
   width: 70%;
   margin: 0 auto;
+}
+
+@media (max-width: 480px) {
+  .hero-area .block p {
+    font-size: 1.3em;
+  }
 }
 
 .hero-area .block .btn-transparent {
