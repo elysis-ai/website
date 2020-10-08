@@ -4,8 +4,9 @@ banner:
   bg_image_webp: images/jellyfish_greenish_bg.webp
   bg_image: images/jellyfish_greenish_bg.jpg
   icon: ''
-  title: Leverage data, <br />generate business value
-  content: We identify, build and deploy state-of-the-art Business Intelligence and Machine Learning solutions.
+  title: Leverage data, <br />generate business value with AI
+  content: We identify, build and deploy state-of-the-art Business Intelligence and
+    Machine Learning solutions.
   button:
     enable: true
     label: Learn more
