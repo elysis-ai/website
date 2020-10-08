@@ -3,7 +3,9 @@ company:
   enable: true
   image: images/office_glass_front.jpg
   image_webp: images/office_glass_front.jpg
-  title: Business meets AI-Tech
-  content: 'WhiteLake combines cutting-edge technology competence with solid management expertise and a hands-on, solution-oriented mindset.<br/><br/>
-    We solve complex business problems with data and intelligent, self-learning systems.<br/><br/>
-    Our mission is helping companies to make better decisions, gain new customers and increase profits.'
+  title: Business meets AI
+  content: WhiteLake combines cutting-edge technology competence with solid management
+    expertise and a hands-on, solution-oriented mindset.<br/><br/> We solve complex
+    business problems with data and intelligent, self-learning systems.<br/><br/>
+    Our mission is helping companies to make better decisions, gain new customers
+    and increase profits.
