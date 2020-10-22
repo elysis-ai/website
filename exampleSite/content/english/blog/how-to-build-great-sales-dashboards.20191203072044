@@ -51,7 +51,9 @@ Let’s take look at the steps to build a great sales dashboard that makes sure 
 
 On the way to the ideal dashboard we usually use our “Dashboard-Framework”. It contains various checklists, dashboard templates and examples of great sales dashboard.
 
-It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen. Get your free copy here: [\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
+It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen. Get your free copy here:
+
+ [\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
 
 ### 1. Gather stakeholders' requirements for a dashboard
 
@@ -68,6 +70,8 @@ To get started you need to answer 3 simple questions:
 **What** is the desired level of information? Is a top-level count of deals sufficient for every stakeholder? Or is it necessary to drill-down to the level of a single deal. In order to access all information like the contact person, last time contacted, “lost-reason” etc.? This also goes together with the ‘who’ to understand what metrics to choose.
 
 In the “Dashboard-Framework” you will find a checklist walking you through the relevant questions. It can be used to document the results of your findings.
+
+ [\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
 
 ### 2. Understand how the requirements can be met with KPIs
 
@@ -94,11 +98,11 @@ In order to manage the entire sales funnel, knowing the output of each step migh
 
 As Peter Drucker put it:
 
-_“What you can’t measure, you can’t manage”._
+> _“What you can’t measure, you can’t manage”._
 
 To understand the overall performance of the team it might be helpful to put a certain output in perspective, e.g. by dividing the “Prospects contacted” in a specific week by the available FTEs (s. below) in that specific week.
 
-\[In a Box: FTE means Full Time Equivalent. In comparison to “head counts” FTE is a measure for the actual capacity, taking part-timers, holidays etc. into account. Usually 1 FTE equals a full working day of 8 hours.\]
+> FTE means Full Time Equivalent. In comparison to “head counts” FTE is a measure for the actual capacity, taking part-timers, holidays etc. into account. Usually 1 FTE equals a full working day of 8 hours.
 
 ### 3. Identify data sources to measure the KPIs
 
@@ -139,7 +143,7 @@ You can also use API-Calls to pull the data directly into your data lake. This, 
 
 Building API calls “by hand” is probably a painful solution as a minimum of coding experience is required. If you still want to learn how to make API-calls yourself and use them for your sales dashboard, [check out this tutorial](https://happycoding.io/tutorials/java-server/rest-api).
 
-There are also data pipeline solutions out there making integrating API sources into your data-lake easier. For example, you could go with [https://fivetran.com](https://fivetran.com "fivetran").
+There are also data pipeline solutions out there making integrating API sources into your data-lake easier. For example, you could go with [fivetran](https://fivetran.com "fivetran").
 
 #### D) Adding data manually
 
@@ -181,7 +185,9 @@ The tech and sales team, as well as your Top-Management might have a word to say
 
 Think of your dashboard as a product that you need to sell to your users. Try to figure out how they can benefit from it the most.
 
-In our free \[->Dashboard-Framework\] you find some sales dashboard examples for inspiration.
+In our free "Dashboard-Framework" you find some sales dashboard examples for inspiration.
+
+ [\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
 
 ### 5. Evaluate and identify a dashboard solution
 
@@ -205,7 +211,7 @@ If your company is not working with Google products, however, you might have to 
 
 In our free “Dashboard-Framework” you will find a detailed comparison of different tools including a short description, pricing information and pros and cons.
 
-\---> Download
+ [\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
 
 ### 6. Build, test and deploy your dashboard
 
