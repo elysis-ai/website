@@ -4,7 +4,7 @@ date = 2020-10-21T22:00:00Z
 description = "A cutting-edge sales dashboard not only increase business performance. It is also a great way to turn your data into real company value."
 image = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
 image_webp = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
-title = "How To Build Great Sales Dashboards?"
+title = "How To Build Great Sales Dashboards"
 
 +++
 Nowadays every sales manager uses some kind of sales tracking dashboard to manage the sales team on a day-to-day basis and to report to the top management. Unfortunately it is a pain to get the relevant data all in one place. And once it’s done, reports are usually put together with Excel.
