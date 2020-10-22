@@ -224,6 +224,8 @@ In most tools, you have more control using SQL than using the graphical interfac
 
 Of course, we can provide help on that side as well. You can book a free introductory call with us \[-> here\].
 
+#### Iterate if necessary
+
 Before you publish the dashboard within the company you should test regarding usability and with a handful of chosen users. Iterate if necessary.
 
 Once your dashboard is tested, you can focus on making it available to your colleagues. This step is heavily tool-specific. Some require you to simply sign up, build the dashboard and set it live, while others will require more technical deployment.
