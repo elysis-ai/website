@@ -19,7 +19,9 @@ That process is not only annoying. It is also error-prone and takes hours of you
 
 So just imagine the following: You enter the office on a Monday morning. You open your browser. And there they are: all the numbers you need for the meeting with the CEO.
 
-Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance. ![](https://lh5.googleusercontent.com/D7qULw_ctasp4X0NVV-4oksscGjBuLXIOq8m4TSksFHTt07WmoLGKiH9-ZE_WnfzMq6WzbcN4q8gJqjjV14zsFKRyn6Wy6-c35JiiJNeR-ZPObrUcpITzxjGPqJfc1t-eTCq-A2T =602x433)Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
+Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance. ![](https://lh5.googleusercontent.com/D7qULw_ctasp4X0NVV-4oksscGjBuLXIOq8m4TSksFHTt07WmoLGKiH9-ZE_WnfzMq6WzbcN4q8gJqjjV14zsFKRyn6Wy6-c35JiiJNeR-ZPObrUcpITzxjGPqJfc1t-eTCq-A2T =602x433)
+
+Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
 
 On your way to the meeting room, you glance at the big screen hanging above the sales floor. Big numbers and clear graphs show the daily performance of each of your team members, ranked by the best performing agent.
 
@@ -47,7 +49,6 @@ Let’s take look at the steps to build a great sales dashboard that makes sure 
 6. Build, test and deploy your dashboard
 7. Launch your dashboard and introduce it to the team
 
-  
 On the way to the ideal dashboard we usually use our “Dashboard-Framework”. It contains various checklists, dashboard templates and examples of great sales dashboard.
 
 It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen. Get your free copy here: [\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
@@ -91,7 +92,6 @@ In order to manage the entire sales funnel, knowing the output of each step migh
 * How many offers are in negotiation?
 * How many deals have been closed?
 
-  
 As Peter Drucker put it:
 
 _“What you can’t measure, you can’t manage”._
