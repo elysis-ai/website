@@ -8,8 +8,8 @@ team:
     image: images/jh_square_nobg.png
     designation: CEO/Founder
     content: 'Johannes is a Data Specialist with a strong background in Top-Management
-      and Strategy Consulting. For over a decade he handles massive amounts of data
-      to drive productivity in global companies and corporations. '
+      Consulting. For over a decade he handles massive amounts of data to drive productivity
+      in global companies and corporations. '
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
