@@ -19,7 +19,7 @@ That process is not only annoying. It is also error-prone and takes hours of you
 
 So just imagine the following: You enter the office on a Monday morning. You open your browser. And there they are: all the numbers you need for the meeting with the CEO.
 
-Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance. ![](https://lh5.googleusercontent.com/D7qULw_ctasp4X0NVV-4oksscGjBuLXIOq8m4TSksFHTt07WmoLGKiH9-ZE_WnfzMq6WzbcN4q8gJqjjV14zsFKRyn6Wy6-c35JiiJNeR-ZPObrUcpITzxjGPqJfc1t-eTCq-A2T =602x433)
+Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance. ![](https://lh5.googleusercontent.com/D7qULw_ctasp4X0NVV-4oksscGjBuLXIOq8m4TSksFHTt07WmoLGKiH9-ZE_WnfzMq6WzbcN4q8gJqjjV14zsFKRyn6Wy6-c35JiiJNeR-ZPObrUcpITzxjGPqJfc1t-eTCq-A2T=602x433)
 
 Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
 
@@ -75,7 +75,7 @@ In the “Dashboard-Framework” you will find a checklist walking you through t
 
 ### 2. Understand how the requirements can be met with KPIs
 
-![](https://lh6.googleusercontent.com/mALREqAA1CnqYCOsk17neKwuIPRKoyy-V713kJ42MK_WWEFjyEWcnqT7YCG77ucZ-imG3qI4b7dmEs4Mk9PX0NGNulhSRnLPBdpS_En9cY8oEs3QOneQn2wT6Gbt-FfN-fwqv0z0 =602x388)
+![](https://lh6.googleusercontent.com/mALREqAA1CnqYCOsk17neKwuIPRKoyy-V713kJ42MK_WWEFjyEWcnqT7YCG77ucZ-imG3qI4b7dmEs4Mk9PX0NGNulhSRnLPBdpS_En9cY8oEs3QOneQn2wT6Gbt-FfN-fwqv0z0=602x388)
 
 The second and most important step is to identify the right KPIs. Some Sales Managers know them already, some don’t and some only think they know them (but actually don’t). In our experience a good sales dashboard should contain at least the following:
 
@@ -181,7 +181,7 @@ Before you start building, testing and deploying your new sales dashboard, align
 
 The tech and sales team, as well as your Top-Management might have a word to say about your prototype. If you don’t ask them upfront, you might have to do a lot of design and implementation work all over again.
 
-![](https://lh4.googleusercontent.com/9ilB2Mre6B0QA-zMfRnYmYERuohIu-n3pEJdp1xELhmYnsbii2cwn5DW0zoDFSTBz9gwCkN8RcJXWjyizY1cwQqVYzQ6P4IPlYtbjGaDGO1PEkkoQeTJuIzQHrum5TNQG7sxID_L =602x401)
+![](https://lh4.googleusercontent.com/9ilB2Mre6B0QA-zMfRnYmYERuohIu-n3pEJdp1xELhmYnsbii2cwn5DW0zoDFSTBz9gwCkN8RcJXWjyizY1cwQqVYzQ6P4IPlYtbjGaDGO1PEkkoQeTJuIzQHrum5TNQG7sxID_L=602x401)
 
 Think of your dashboard as a product that you need to sell to your users. Try to figure out how they can benefit from it the most.
 
@@ -243,7 +243,7 @@ If you want to opt for a more powerful tool like Metabase, you will have to run 
 
 Tell all stakeholders about the dashboard and where to find it. It’s like with every other tool - if nobody uses it, it's useless.
 
-![](https://lh4.googleusercontent.com/1FDTBO9LNO7BO9ESP5lTfiUKd4y4hQkFBeA-dl6zYAGZuHjGyeCSBr59ix7qdsvHRTC81mTPqHb8xhmo4Z79a6o-T0qb518XLJOs8cV2RiREtnR2UfhKzhDxtP-KUJyLWRIMSN6X =602x452)
+![](https://lh4.googleusercontent.com/1FDTBO9LNO7BO9ESP5lTfiUKd4y4hQkFBeA-dl6zYAGZuHjGyeCSBr59ix7qdsvHRTC81mTPqHb8xhmo4Z79a6o-T0qb518XLJOs8cV2RiREtnR2UfhKzhDxtP-KUJyLWRIMSN6X=602x452)
 
 We usually hold a short implementation workshop with our customers: We invite all involved people. Present the dashboard. Walk through the different functionalities and views. We also ask everybody to test it and get back to us with questions and feedback.
 
