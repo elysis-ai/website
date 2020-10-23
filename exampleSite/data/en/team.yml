@@ -17,8 +17,8 @@ team:
     image_webp: images/ja_square_nobg.webp
     image: images/ja_square_nobg.png
     designation: CEO/Founder
-    content: Johanna is a Machine Learning Engineer with a background in IT, Mathematics
-      and Innovation Management. She developed complex software systems and intelligent
+    content: Johanna is a machine learning engineer with a background in IT, mathematics
+      and innovation management. She developed complex software systems and intelligent
       applications for international organizations.
     social:
     - icon: ti-linkedin
