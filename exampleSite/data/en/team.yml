@@ -7,8 +7,8 @@ team:
     image_webp: images/jh_square_nobg.webp
     image: images/jh_square_nobg.png
     designation: CEO/Founder
-    content: 'Johannes is a Data Specialist with a strong background in Transformation
-      Management. For over a decade he handles massive amounts of data to drive productivity
+    content: 'Johannes is a big data specialist with a strong background in top-management
+      consulting. For over a decade he handles massive amounts of data to drive productivity
       in global companies and corporations. '
     social:
     - icon: ti-linkedin
@@ -17,8 +17,8 @@ team:
     image_webp: images/ja_square_nobg.webp
     image: images/ja_square_nobg.png
     designation: CEO/Founder
-    content: Johanna is a Machine Learning Engineer with a background in IT, Mathematics
-      and Innovation Management. She developed complex software systems and intelligent
+    content: Johanna is a machine learning engineer with a background in IT, mathematics
+      and innovation management. She developed complex software systems and intelligent
       applications for international organizations.
     social:
     - icon: ti-linkedin
@@ -27,7 +27,7 @@ team:
     image_webp: images/do_square_nobg.webp
     image: images/do_square_nobg.png
     designation: Deep Learning Specialist
-    content: 'Darina is a Data Scientist with a background in Innovation. She is a
+    content: 'Darina is a data scientist with a background in Innovation. She is a
       leading expert in the field of image recognition technologies. Among others
       Darina developed intelligent quality control systems for the coffee industry. '
     social:
@@ -37,7 +37,7 @@ team:
     image_webp: images/os_square_nobg.webp
     image: images/os_square_nobg.png
     designation: Machine Learning Expert
-    content: Oliver is a Machine Learning Engineer and expert in natural language
+    content: Oliver is a machine learning engineer and expert in natural language
       processing. He received a rigorous training in pure mathematics and analytical
       philosophy from Oxford University.
     social:
