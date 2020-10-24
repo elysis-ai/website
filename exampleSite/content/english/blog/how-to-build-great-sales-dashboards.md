@@ -1,9 +1,9 @@
 +++
 author = ""
 date = 2020-10-21T22:00:00Z
-description = "A cutting-edge sales dashboard not only increase business performance. It is also a great way to turn your data into real company value."
-image = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
-image_webp = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
+description = "A cutting-edge sales dashboard increases business performance and turns your data into real company value."
+image = "/images/laptop_desktop_charts.jpg"
+image_webp = "/images/laptop_desktop_charts.webp"
 title = "How To Build Great Sales Dashboards"
 
 +++
@@ -16,6 +16,10 @@ Hence, if you want all your metrics in one place, you will have to bite the bull
 That process is not only annoying. It is also error-prone and takes hours of your precious time. Time you could better spend on key-tasks, such as team management, deal closing and lead generation.
 
 ## A Cloud Based Sales Dashboard Will Save Hours of Time
+
+<!-- Begin Mailigen Signup Form: lightbox -->
+<script class="MG_embed" src="//list.mailigen.com/js/embed.js"  defer></script>
+<!-- End Mailigen Signup Form: lightbox -->
 
 So just imagine the following: You enter the office on a Monday morning. You open your browser. And there they are: all the numbers you need for the meeting with the CEO.
 

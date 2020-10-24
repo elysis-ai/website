@@ -34,6 +34,10 @@ p {
   font-family: "Quattrocento Sans", sans-serif;
 }
 
+li {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
 [scroll-behavior=smooth] {
   scroll-behavior: smooth;
 }
@@ -1231,17 +1235,26 @@ a:hover {
 /*=================================================================
   Latest Posts
 ==================================================================*/
+article.post {
+  display: flex;
+}
+
 .note {
   background-color: #292F36;
   border: 1px solid #4e595f;
 }
 
 .post-block {
+  display: flex;
+  flex-direction: column;
   background-color: #292F36;
   margin-bottom: 10px;
 }
 
 .post-block .content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
   padding: 20px;
 }
 
@@ -1250,6 +1263,10 @@ a:hover {
   font-size: 20px;
   line-height: 1.5;
   text-transform: capitalize;
+}
+
+.post-block .content .spacer {
+  flex: 1 0 auto;
 }
 
 .note .media-wrapper {
@@ -1324,6 +1341,29 @@ a:hover {
   background-color: #fff;
   margin-bottom: 50px;
   padding: 20px;
+}
+
+.single-blog h1, .single-blog h2, .single-blog h3, .single-blog h4, .single-blog h5{
+  color: #353b43;
+}
+
+.single-blog a {
+  color: #57cbcc;
+  font-weight: bold;
+  transition: all .3s ease-in 0s;
+}
+
+.single-blog a,
+.single-blog a:focus,
+.single-blog a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  outline: 0;
+}
+
+.single-blog a:focus,
+.single-blog a:hover {
+  color: #2c9091;
 }
 
 .blog-subtitle {
@@ -1886,7 +1926,7 @@ aside.widget {
 }
 
 blockquote {
-  border-left: 5px solid #6cb670;
+  border-left: 5px solid #57cbcc;
   font-style: italic;
   line-height: 22px;
   padding: 20px 20px 10px 20px;
