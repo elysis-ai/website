@@ -230,6 +230,7 @@ a:hover {
   letter-spacing: 1px;
   padding: 10px 35px;
   text-transform: uppercase;
+  border-radius: 0;
 }
 
 .btn-main:hover {
@@ -1339,11 +1340,14 @@ article.post {
 
 .single-blog {
   background-color: #fff;
-  margin-bottom: 50px;
   padding: 20px;
 }
 
-.single-blog h1, .single-blog h2, .single-blog h3, .single-blog h4, .single-blog h5{
+.single-blog h1,
+.single-blog h2,
+.single-blog h3,
+.single-blog h4,
+.single-blog h5{
   color: #353b43;
 }
 
@@ -1919,11 +1923,6 @@ aside.widget {
 /*=================================================================
 	Single Blog Page
 ==================================================================*/
-.single-blog {
-  background-color: #fff;
-  margin-bottom: 50px;
-  padding: 20px;
-}
 
 blockquote {
   border-left: 5px solid #57cbcc;
