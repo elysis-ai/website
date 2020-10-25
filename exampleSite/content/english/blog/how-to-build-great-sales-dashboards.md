@@ -23,7 +23,7 @@ So just imagine the following: You enter the office on a Monday morning. You ope
 
 Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance.
 
-![](http://placekitten.com/602/433?image=1)
+{{< img src="http://placekitten.com/602/433?image=1" alt="dashboard illustration" >}}
 
 Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
 
@@ -82,7 +82,7 @@ In the Dashboard-Framework you will find a checklist walking you through the rel
 
 ### 2. Understand how the requirements can be met with KPIs
 
-![](http://placekitten.com/602/433?image=2)
+{{< img src="http://placekitten.com/602/433?image=2" alt="dashboard illustration" >}}
 
 The second and most important step is to identify the right KPIs. Some Sales Managers know them already, some don’t and some only think they know them (but actually don’t). In our experience a good sales dashboard should contain at least the following:
 
@@ -192,7 +192,7 @@ Before you start building, testing and deploying your new sales dashboard, align
 
 The tech and sales team, as well as your Top-Management might have a word to say about your prototype. If you don’t ask them upfront, you might have to do a lot of design and implementation work all over again.
 
-![](http://placekitten.com/602/433?image=3)
+{{< img src="http://placekitten.com/602/433?image=3" alt="dashboard illustration" >}}
 
 Think of your dashboard as a product that you need to sell to your users. Try to figure out how they can benefit from it the most.
 
@@ -258,7 +258,7 @@ If you want to opt for a more powerful tool like Metabase, you will have to run 
 
 Tell all stakeholders about the dashboard and where to find it. It’s like with every other tool - if nobody uses it, it's useless.
 
-![](http://placekitten.com/602/433?image=4)
+{{< img src="http://placekitten.com/602/433?image=4" alt="dashboard illustration" >}}
 
 We usually hold a short implementation workshop with our customers: We invite all involved people. Present the dashboard. Walk through the different functionalities and views. We also ask everybody to test it and get back to us with questions and feedback.
 
