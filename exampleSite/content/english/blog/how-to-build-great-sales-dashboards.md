@@ -1,9 +1,9 @@
 +++
-author = ""
+author = "Johannes Hollmann"
 date = 2020-10-21T22:00:00Z
-description = "A cutting-edge sales dashboard not only increase business performance. It is also a great way to turn your data into real company value."
-image = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
-image_webp = "/images/carlos-muza-hpjsku2uysu-unsplash.jpg"
+description = "A cutting-edge sales dashboard increases business performance and turns your data into real company value."
+image = "/images/laptop_desktop_charts.jpg"
+image_webp = "/images/laptop_desktop_charts.webp"
 title = "How To Build Great Sales Dashboards"
 
 +++
@@ -17,11 +17,13 @@ That process is not only annoying. It is also error-prone and takes hours of you
 
 ## A Cloud Based Sales Dashboard Will Save Hours of Time
 
+{{< download-form-prep >}}
+
 So just imagine the following: You enter the office on a Monday morning. You open your browser. And there they are: all the numbers you need for the meeting with the CEO.
 
 Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance.
 
-\[BILD\]
+{{< img src="http://placekitten.com/602/433?image=1" alt="dashboard illustration" >}}
 
 Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
 
@@ -51,11 +53,12 @@ Let’s take look at the steps to build a great sales dashboard that makes sure 
 6. Build, test and deploy your dashboard
 7. Launch your dashboard and introduce it to the team
 
-On the way to the ideal dashboard we usually use our “Dashboard-Framework”. It contains various checklists, dashboard templates and examples of great sales dashboard.
+On the way to the ideal dashboard we usually use our Dashboard-Framework. It contains various checklists, dashboard templates and examples of great sales dashboard.  
+It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen.
 
-It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen. Get your free copy here:
-
-[\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
+{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+  Get your free copy of our Dashboard-Framework here
+{{</ download-form >}}
 
 ### 1. Gather stakeholders' requirements for a dashboard
 
@@ -71,13 +74,15 @@ To get started you need to answer 3 simple questions:
 
 **What** is the desired level of information? Is a top-level count of deals sufficient for every stakeholder? Or is it necessary to drill-down to the level of a single deal. In order to access all information like the contact person, last time contacted, “lost-reason” etc.? This also goes together with the ‘who’ to understand what metrics to choose.
 
-In the “Dashboard-Framework” you will find a checklist walking you through the relevant questions. It can be used to document the results of your findings.
+In the Dashboard-Framework you will find a checklist walking you through the relevant questions. It can be used to document the results of your findings.
 
-[\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
+{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+  Get your free copy of our Dashboard-Framework here
+{{</ download-form >}}
 
 ### 2. Understand how the requirements can be met with KPIs
 
-![](https://lh6.googleusercontent.com/mALREqAA1CnqYCOsk17neKwuIPRKoyy-V713kJ42MK_WWEFjyEWcnqT7YCG77ucZ-imG3qI4b7dmEs4Mk9PX0NGNulhSRnLPBdpS_En9cY8oEs3QOneQn2wT6Gbt-FfN-fwqv0z0 =602x388)
+{{< img src="http://placekitten.com/602/433?image=2" alt="dashboard illustration" >}}
 
 The second and most important step is to identify the right KPIs. Some Sales Managers know them already, some don’t and some only think they know them (but actually don’t). In our experience a good sales dashboard should contain at least the following:
 
@@ -104,7 +109,7 @@ As Peter Drucker put it:
 
 To understand the overall performance of the team it might be helpful to put a certain output in perspective, e.g. by dividing the “Prospects contacted” in a specific week by the available FTEs (s. below) in that specific week.
 
-> FTE means Full Time Equivalent. In comparison to “head counts” FTE is a measure for the actual capacity, taking part-timers, holidays etc. into account. Usually 1 FTE equals a full working day of 8 hours.
+_FTE means Full Time Equivalent. In comparison to “head counts” FTE is a measure for the actual capacity, taking part-timers, holidays etc. into account. Usually 1 FTE equals a full working day of 8 hours._
 
 ### 3. Identify data sources to measure the KPIs
 
@@ -114,7 +119,11 @@ The amount of prospects contacted in a certain week most certainly will be found
 
 In other words, more than one data source holds the desired data.
 
-Go through all of your KPIs and list the data sources and ideally the person responsible for them. If you need a template to do so, you can use our “Dashboard-Framework” ---->\[Get free Dashboard-Framework\]
+Go through all of your KPIs and list the data sources and ideally the person responsible for them. If you need a template to do so, you can use our framework:
+
+{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+  Get your free copy of our Dashboard-Framework here
+{{</ download-form >}}
 
 After figuring out which KPIs are relevant and where the data can be found, it’s getting technical. You will need to get access to the data sources and consolidate them. In general, there are several ways you can deal with that:
 
@@ -151,7 +160,7 @@ There are also data pipeline solutions out there making integrating API sources 
 
 In some cases, you might only need very few data points and an integration is just not worth the trouble. If that's the case, we would recommend using a temporary storage solution that can be updated by hand. E.g. a connection of a Google-Sheet to your database.
 
-At this stage you might get to a point where a certain data set is just not accessible or simply does not exist. If that is the case: Go back to your “Dashboard-Framework” and rework your KPIs. Developing an alternative solution based on available data very often solves the problem. Think of what else you could measure to deduct the same conclusions.
+At this stage you might get to a point where a certain data set is just not accessible or simply does not exist. If that is the case: Go back to your Dashboard-Framework and rework your KPIs. Developing an alternative solution based on available data very often solves the problem. Think of what else you could measure to deduct the same conclusions.
 
 ### 4. Prototype and test the dashboard
 
@@ -183,13 +192,15 @@ Before you start building, testing and deploying your new sales dashboard, align
 
 The tech and sales team, as well as your Top-Management might have a word to say about your prototype. If you don’t ask them upfront, you might have to do a lot of design and implementation work all over again.
 
-!\[\]( /images/charles-deluvio-lks7vei-eag-unsplash.jpg =602x388)
+{{< img src="http://placekitten.com/602/433?image=3" alt="dashboard illustration" >}}
 
 Think of your dashboard as a product that you need to sell to your users. Try to figure out how they can benefit from it the most.
 
 In our free "Dashboard-Framework" you find some sales dashboard examples for inspiration.
 
-[\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
+{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+  Get your free copy of our Dashboard-Framework here
+{{</ download-form >}}
 
 ### 5. Evaluate and identify a dashboard solution
 
@@ -211,9 +222,11 @@ A simpler, hosted option could also be Google DataStudio. It integrates well wit
 
 If your company is not working with Google products, however, you might have to opt for another solution. Other great platforms - such as [Tableau](https://www.tableau.com/), [Looker](https://looker.com/), etc. - might offer a way out, but can also be pricey.
 
-In our free “Dashboard-Framework” you will find a detailed comparison of different tools including a short description, pricing information and pros and cons.
+In our free Dashboard-Framework you will find a detailed comparison of different tools including a short description, pricing information and pros and cons.
 
-[\[Download free Dashboard Framework here\]](https://docs.google.com/spreadsheets/d/1394J2FBThnBCCDiEFA_buGfYJu5wG3jYNJ_eEakpnjA/edit#gid=0)
+{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+  Get your free copy of our Dashboard-Framework here
+{{</ download-form >}}
 
 ### 6. Build, test and deploy your dashboard
 
@@ -229,7 +242,7 @@ You can use e.g.:
 
 In most tools, you have more control using SQL than using the graphical interface. To continue in that direction, ask an expert for help. Usually you can find SQL-savvy colleagues in the tech- or business intelligence team.
 
-Of course, we can provide help on that side as well. You can book a free introductory call with us \[-> here\].
+Of course, we can provide help on that side as well. You can book a free introductory call with us [-> here FIXME](/).
 
 #### Iterate if necessary
 
@@ -245,7 +258,7 @@ If you want to opt for a more powerful tool like Metabase, you will have to run 
 
 Tell all stakeholders about the dashboard and where to find it. It’s like with every other tool - if nobody uses it, it's useless.
 
-![](https://lh4.googleusercontent.com/1FDTBO9LNO7BO9ESP5lTfiUKd4y4hQkFBeA-dl6zYAGZuHjGyeCSBr59ix7qdsvHRTC81mTPqHb8xhmo4Z79a6o-T0qb518XLJOs8cV2RiREtnR2UfhKzhDxtP-KUJyLWRIMSN6X =602x452)
+{{< img src="http://placekitten.com/602/433?image=4" alt="dashboard illustration" >}}
 
 We usually hold a short implementation workshop with our customers: We invite all involved people. Present the dashboard. Walk through the different functionalities and views. We also ask everybody to test it and get back to us with questions and feedback.
 
@@ -265,16 +278,12 @@ But this will only support operations up to a point. When the company reaches a 
 
 altura is a Berlin-based AI company. Our mission is to improve the performance of our clients using data- and machine learning technologies.
 
-If you would like to learn more about how your data and machine learning can help you, have a look at our showcases \[linked to homepage\] and stay in touch:
+If you would like to learn more about how your data and machine learning can help you, have a look at [our showcases]({{< ref "/#ml_use_cases" >}}) and stay in touch:
 
-\[email subscribe box\]
+[email subscribe box FIXME](/)
 
 A sales dashboard is a first step in profiting from data. To create the best possible dashboards, we support our clients throughout all steps of the process described above.
 
 At altura we combine deep technological expertise with a strong track record of management and business consulting and combine both worlds for the profit of our clients.
 
-If you would like to know how we can help you with this and other data and machine learning projects, we offer a free-of-charge initial assessment of your situation:
-
-\[----> Book now\]
-
-Keep profiting from your data!
+If you would like to know how we can help you with this and other data and machine learning projects, we offer a free-of-charge initial assessment of your situation. Simply book a call with us below!
