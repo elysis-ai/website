@@ -23,7 +23,7 @@ So just imagine the following: You enter the office on a Monday morning. You ope
 
 Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance.
 
-{{< img src="/images/undraw_success_factors_fay0.png" alt="dashboard illustration" >}}
+{{< img src="/images/undraw_success_factors_fay0.png" alt="sales dashboard" >}}
 
 Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
 
@@ -82,7 +82,7 @@ Get your free copy of our Dashboard-Framework here
 
 ### 2. Understand how the requirements can be met with KPIs
 
-{{< img src="/images/undraw_data_points_re_vkpq.png" alt="dashboard illustration" >}}
+{{< img src="/images/undraw_data_points_re_vkpq.png" alt="KPI dashboard" >}}
 
 The second and most important step is to identify the right KPIs. Some Sales Managers know them already, some don’t and some only think they know them (but actually don’t). In our experience a good sales dashboard should contain at least the following:
 
