@@ -258,7 +258,7 @@ If you want to opt for a more powerful tool like Metabase, you will have to run 
 
 Tell all stakeholders about the dashboard and where to find it. It’s like with every other tool - if nobody uses it, it's useless.
 
-{{< img src="http://placekitten.com/602/433?image=4" alt="dashboard illustration" >}}
+{{< img src="/images/undraw_dashboard_nklg.png" alt="sales dashboard" >}}
 
 We usually hold a short implementation workshop with our customers: We invite all involved people. Present the dashboard. Walk through the different functionalities and views. We also ask everybody to test it and get back to us with questions and feedback.
 
