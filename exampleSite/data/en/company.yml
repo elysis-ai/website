@@ -1,6 +1,6 @@
 ---
 company:
-  enable: true
+  enable: false
   image: images/office_glass_front.jpg
   image_webp: images/office_glass_front.jpg
   title: Business meets AI
