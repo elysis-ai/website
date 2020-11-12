@@ -9,7 +9,7 @@ Gesellschafter: Johannes Hollmann und Johanna Appel
 
 **Kontakt:**  
 Telefon:  0251 / 981 156 275 6  
-E-Mail: hello@waltura.ai  
+E-Mail: info@waltura.ai  
 Website: altura.ai
 
 **Bei redaktionellen Inhalten:**  
