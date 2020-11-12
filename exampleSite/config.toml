@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "WhiteLake.ai"
+title = "Altura.ai"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; Altura.ai Hollmann & Appel GbR, 2020"
@@ -36,7 +36,7 @@ name = "contact"
 URL = "contact"
 weight = 4
 [params]
-author = "WhiteLake.ai"
+author = "Altura.ai"
 description = "Leverage data, generate business value"
 google_analytics_id = ""
 logo = "images/logo.png"
