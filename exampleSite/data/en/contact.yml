@@ -4,7 +4,7 @@ contact:
   title: Contact Us
   contact_buttons:
   - icon: ti-calendar
-    link: https://example.com
+    link: https://calendly.com/altura-ai/30min
     title: INTRO CALL
     text: Book Free Intro Call
   - icon: ti-email
