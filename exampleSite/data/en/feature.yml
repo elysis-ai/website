@@ -1,31 +1,26 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
+  enable: true
   image: images/office_glass_front.jpg
   image_webp: images/office_glass_front.jpg
   title: Business meets AI
-  content : "WhiteLake combines cutting-edge technology competence with solid management
-    expertise and a hands-on, solution-oriented mindset.<br/><br/> We solve complex
-    business problems with data and intelligent, self-learning systems.<br/><br/>
-    Our mission is helping companies to make better decisions, gain new customers
-    and increase profits."
-  feature_item : 
-      # feature item loop
-    - title : Analyses & KPI Dashboards
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : We create transparancy for your data-driven organization. From high level metrics to in-depth customer analysis.
-      
-      # feature item loop
-    - title : Machine Learning Prototypes
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Based on your ideas, we conceptualize, build and deploy your AI proof of concept. From first workshop to software implementation.
-
-      # feature item loop
-    - title : Predictions & Simulations
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : How can your business grow best? In-depth mathematical modelling and forecasting helps you understand future trends.
-      
-      # feature item loop
-    - title : Optimization & Automation
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Inefficiency is unnecessary! Optimise your costs and increase profits with automated business processes.
+  content: Altura.ai combines cutting-edge technology competence with solid management
+    expertise and a hands-on, solution-oriented mindset. Our mission is helping companies
+    to make better decisions, gain new customers and increase profits.
+  feature_item:
+  - title: Analyses & KPI Dashboards
+    icon: ti-world
+    content: We create transparancy for your data-driven organization. From high level
+      metrics to in-depth customer analysis.
+  - title: Machine Learning Prototypes
+    icon: ti-panel
+    content: Based on your ideas, we conceptualize, build and deploy your AI proof
+      of concept. From first workshop to software implementation.
+  - title: Predictions & Simulations
+    icon: ti-stats-up
+    content: How can your business grow best? In-depth mathematical modelling and
+      forecasting helps you understand future trends.
+  - title: Optimization & Automation
+    icon: ti-announcement
+    content: Inefficiency is unnecessary! Optimise your costs and increase profits
+      with automated business processes.
