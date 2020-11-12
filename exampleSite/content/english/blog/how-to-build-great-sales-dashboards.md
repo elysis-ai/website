@@ -82,7 +82,7 @@ Get your free copy of our Dashboard-Framework here
 
 ### 2. Understand how the requirements can be met with KPIs
 
-{{< img src="http://placekitten.com/602/433?image=2" alt="dashboard illustration" >}}
+{{< img src="/images/undraw_data_points_re_vkpq.png" alt="dashboard illustration" >}}
 
 The second and most important step is to identify the right KPIs. Some Sales Managers know them already, some don’t and some only think they know them (but actually don’t). In our experience a good sales dashboard should contain at least the following:
 
