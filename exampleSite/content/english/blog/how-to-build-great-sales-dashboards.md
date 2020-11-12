@@ -23,7 +23,7 @@ So just imagine the following: You enter the office on a Monday morning. You ope
 
 Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance.
 
-{{< img src="http://placekitten.com/602/433?image=1" alt="dashboard illustration" >}}
+{{< img src="/images/undraw_success_factors_fay0.png" alt="dashboard illustration" >}}
 
 Your sales agent also has her own dashboard, knows her personal performance indicators and will enter the meeting well-prepared.
 
@@ -57,7 +57,7 @@ On the way to the ideal dashboard we usually use our Dashboard-Framework. It con
 It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen.
 
 {{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
-  Get your free copy of our Dashboard-Framework here
+Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
 ### 1. Gather stakeholders' requirements for a dashboard
@@ -77,7 +77,7 @@ To get started you need to answer 3 simple questions:
 In the Dashboard-Framework you will find a checklist walking you through the relevant questions. It can be used to document the results of your findings.
 
 {{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
-  Get your free copy of our Dashboard-Framework here
+Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
 ### 2. Understand how the requirements can be met with KPIs
@@ -122,7 +122,7 @@ In other words, more than one data source holds the desired data.
 Go through all of your KPIs and list the data sources and ideally the person responsible for them. If you need a template to do so, you can use our framework:
 
 {{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
-  Get your free copy of our Dashboard-Framework here
+Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
 After figuring out which KPIs are relevant and where the data can be found, it’s getting technical. You will need to get access to the data sources and consolidate them. In general, there are several ways you can deal with that:
@@ -199,7 +199,7 @@ Think of your dashboard as a product that you need to sell to your users. Try to
 In our free "Dashboard-Framework" you find some sales dashboard examples for inspiration.
 
 {{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
-  Get your free copy of our Dashboard-Framework here
+Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
 ### 5. Evaluate and identify a dashboard solution
@@ -225,7 +225,7 @@ If your company is not working with Google products, however, you might have to 
 In our free Dashboard-Framework you will find a detailed comparison of different tools including a short description, pricing information and pros and cons.
 
 {{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
-  Get your free copy of our Dashboard-Framework here
+Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
 ### 6. Build, test and deploy your dashboard
