@@ -9,11 +9,11 @@ feature:
     to make better decisions, gain new customers and increase profits.
   feature_item:
   - title: Analyses & KPI Dashboards
-    icon: ti-world
+    icon: ti-bar-chart
     content: We create transparancy for your data-driven organization. From high level
       metrics to in-depth customer analysis.
   - title: Machine Learning Prototypes
-    icon: ti-panel
+    icon: ti-target
     content: Based on your ideas, we conceptualize, build and deploy your AI proof
       of concept. From first workshop to software implementation.
   - title: Predictions & Simulations
@@ -21,6 +21,6 @@ feature:
     content: How can your business grow best? In-depth mathematical modelling and
       forecasting helps you understand future trends.
   - title: Optimization & Automation
-    icon: ti-announcement
+    icon: ti-panel
     content: Inefficiency is unnecessary! Optimise your costs and increase profits
       with automated business processes.
