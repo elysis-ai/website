@@ -192,7 +192,7 @@ Before you start building, testing and deploying your new sales dashboard, align
 
 The tech and sales team, as well as your Top-Management might have a word to say about your prototype. If you don’t ask them upfront, you might have to do a lot of design and implementation work all over again.
 
-{{< img src="http://placekitten.com/602/433?image=3" alt="dashboard illustration" >}}
+{{< img src="/images/charles-deluvio-lks7vei-eag-unsplash.jpg" alt="sales dashboard" >}}
 
 Think of your dashboard as a product that you need to sell to your users. Try to figure out how they can benefit from it the most.
 
