@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "WhiteLake.ai"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; WhiteLake Hollmann & Appel GbR, 2020"
+copyright = "Copyright &copy; Altura.ai Hollmann & Appel GbR, 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
