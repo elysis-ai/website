@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://altura.ai"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Altura.ai"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; Altura Hollmann & Appel GbR, 2020"
+copyright = "Copyright &copy; Altura.ai Hollmann & Appel GbR, 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"

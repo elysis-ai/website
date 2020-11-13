@@ -274,9 +274,9 @@ Especially if your company is young, has a small staff and few customers, the sa
 
 But this will only support operations up to a point. When the company reaches a certain size and many people rely on efficient reports, a well-automated and well-organized sales dashboard transporting the right information to the right team member becomes absolutely crucial.
 
-## About altura.ai
+## About Altura.ai
 
-altura is a Berlin-based AI company. Our mission is to improve the performance of our clients using data- and machine learning technologies.
+Altura.ai is a Berlin-based AI company. Our mission is to improve the performance of our clients using data- and machine learning technologies.
 
 If you would like to learn more about how your data and machine learning can help you, have a look at [our showcases]({{< ref "/#ml_use_cases" >}}) and stay in touch:
 
@@ -284,6 +284,6 @@ If you would like to learn more about how your data and machine learning can hel
 
 A sales dashboard is a first step in profiting from data. To create the best possible dashboards, we support our clients throughout all steps of the process described above.
 
-At altura we combine deep technological expertise with a strong track record of management and business consulting and combine both worlds for the profit of our clients.
+At Altura.ai we combine deep technological expertise with a strong track record of management and business consulting and combine both worlds for the profit of our clients.
 
-If you would like to know how we can help you with this and other data and machine learning projects, we offer a free-of-charge initial assessment of your situation. Simply book a call with us below!
+If you would like to know how we can help you with this and other data and machine learning projects, we offer a free-of-charge initial assessment of your situation. [Simply book a call with here!](https://calendly.com/altura-ai/30min)
