@@ -4,10 +4,10 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "WhiteLake.ai"
+title = "Altura.ai"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; WhiteLake Hollmann & Appel GbR, 2020"
+copyright = "Copyright &copy; Altura Hollmann & Appel GbR, 2020"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -36,10 +36,10 @@ name = "contact"
 URL = "contact"
 weight = 4
 [params]
-author = "WhiteLake.ai"
+author = "Altura.ai"
 description = "Leverage data, generate business value"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/logo_transparent.png"
 post_share = true
 [params.map]
 enable = false
@@ -77,7 +77,7 @@ link = "plugins/google-map/map.js"
 link = "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
 [params.preloader]
 enable = true
-preloader = "images/favicon.png"
+preloader = "images/favicon_transparent.png"
 [[params.social]]
 icon = "ti-facebook"
 link = ""
