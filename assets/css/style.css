@@ -1348,14 +1348,29 @@ article.post {
 .single-blog h3,
 .single-blog h4,
 .single-blog h5 {
+  font-weight: 600;
   color: #1d2024;
+  padding-top: 0.7em;
+  padding-bottom: 0.3em;
+}
+
+.single-blog h3 {
+  font-size: 1.5em;
+}
+
+.single-blog h4 {
+  font-size: 1.25em;
+  font-weight: 300;
+  padding: 0;
 }
 
 .single-blog .post-single-content {
   color: #1d2024;
 }
 
-.single-blog .post-single-content p {
+.single-blog .post-single-content p,
+.single-blog .post-single-content li
+{
   font-size: 1.1rem;
 }
 
