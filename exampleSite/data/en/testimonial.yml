@@ -12,11 +12,11 @@ testimonial:
     #    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
     #      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
     #      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  - name: Jan Dzulko
-    image: images/jan_everphone.jpeg
-    image_webp: images/jan_everphone.webp
-    date: CEO @ everphone GmbH
-    content: Love the dashboards!
+    #- name: Jan Dzulko
+    #  image: images/jan_everphone.jpeg
+    #  image_webp: images/jan_everphone.webp
+    #  date: CEO @ everphone GmbH
+    #  content: Love the dashboards!
   - name: Dr. Gillian Holdsworth
     image: images/gillian_holdsworth.png
     image_webp: images/gillian_holdsworth.webp
