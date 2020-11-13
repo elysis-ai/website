@@ -38,7 +38,7 @@ weight = 4
 [params]
 author = "Altura.ai"
 description = "Leverage data, generate business value"
-google_analytics_id = ""
+google_tag_manager_id = "GTM-KZR7QPC"
 logo = "images/logo_transparent.png"
 post_share = true
 [params.map]
@@ -56,8 +56,6 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
-[[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
@@ -73,8 +71,6 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
-[[params.plugins.js]]
-link = "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
 [params.preloader]
 enable = true
 preloader = "images/favicon_transparent.png"

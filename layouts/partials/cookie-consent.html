@@ -1,6 +1,49 @@
 <!-- This is taken from https://cookieconsent.insites.com -->
 
+<!-- DISCLAIMER! This is currently dynamically imported from Google Tag Manager! -->
+<!-- It's disabled in head and will not execute! -->
+
 <script>
+function getBrowserLanguage() {
+  if (navigator.languages && navigator.languages.length) {
+    return navigator.languages[0];
+  } else if (navigator.language) {
+    return navigator.language;
+  } else {
+    return navigator.userLanguage;
+  }
+}
+  
+function localizedTexts() {
+  var localizedStrings = {
+    en: {
+      allow: 'Allow',
+      deny: 'Deny',
+      message: 'This website uses cookies to improve your experience.',
+      link: 'More Infos.'
+    },
+    de: {
+      allow: 'Zulassen',
+      deny: 'Verweigern',
+      message: 'Diese Webseite verwendet Cookies, um Ihr Erlebnis zu verbessern.',
+      link: 'Mehr erfahren.'
+    }
+  };
+  var foundLanguage = Object.keys(localizedStrings).find(function (lng) {
+    var browserLanguage = getBrowserLanguage();
+    if (browserLanguage && browserLanguage.toLowerCase().includes(lng)) {
+      return lng;
+    }
+  });
+  if (foundLanguage && localizedStrings[foundLanguage]) {
+    return localizedStrings[foundLanguage];
+  } else {
+    return localizedStrings.en;
+  }
+}
+
+var texts = localizedTexts();
+
 window.addEventListener("load", function(){
 window.cookieconsent.initialise({
   "palette": {
@@ -11,17 +54,21 @@ window.cookieconsent.initialise({
       "background": "#57cbcc"
     }
   },
-	"type": "opt-in",
+  "type": "opt-in",
   "position": "bottom-right",
   "content": {
-		"allow": "Allow",
-		"deny": "Deny",
-    "message": "This website uses cookies to improve your experience.",
-    "link": "More Infos.",
+      allow: texts.allow,
+      deny: texts.deny,
+      message: texts.message,
+      link: texts.link,
+    "allow": texts.allow,
+    "deny": texts.deny,
+    "message": texts.message,
+    "link": texts.link,
     "href": "/info/dataprivacy"
   },
-	"onStatusChange": function(a) {
-		this.hasConsented() ? console.log("ALLOWED COOKIES") : console.log("DENIES COOKIES")
-	}
+  "onStatusChange": function(a) {
+    this.hasConsented() ? console.log("ALLOWED COOKIES") : console.log("DENIES COOKIES")
+  }
 })});
 </script>
