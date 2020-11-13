@@ -242,7 +242,7 @@ You can use e.g.:
 
 In most tools, you have more control using SQL than using the graphical interface. To continue in that direction, ask an expert for help. Usually you can find SQL-savvy colleagues in the tech- or business intelligence team.
 
-Of course, we can provide help on that side as well. You can book a free introductory call with us [-> here FIXME](/).
+Of course, we can provide help on that side as well. You can [book a free introductory call](https://calendly.com/altura-ai/30min) with us.
 
 #### Iterate if necessary
 
@@ -278,9 +278,7 @@ But this will only support operations up to a point. When the company reaches a 
 
 Altura.ai is a Berlin-based AI company. Our mission is to improve the performance of our clients using data- and machine learning technologies.
 
-If you would like to learn more about how your data and machine learning can help you, have a look at [our showcases]({{< ref "/#ml_use_cases" >}}) and stay in touch:
-
-[email subscribe box FIXME](/)
+If you would like to learn more about how your data and machine learning can help you, have a look at [our showcases]({{< ref "/#ml_use_cases" >}}).
 
 A sales dashboard is a first step in profiting from data. To create the best possible dashboards, we support our clients throughout all steps of the process described above.
 
