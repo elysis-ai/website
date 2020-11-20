@@ -178,6 +178,9 @@ a:hover {
   background-attachment: fixed !important;
   background-position: center center;
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -284,6 +287,9 @@ a:hover {
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -447,6 +453,9 @@ a:hover {
 }
 
 .hero-area {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   background-position-x: center;
   height: 100vh;
@@ -659,6 +668,10 @@ a:hover {
 ==================================================================*/
 .call-to-action {
   background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .call-to-action h2, .call-to-action h3 {
