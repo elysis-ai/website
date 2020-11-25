@@ -3,7 +3,7 @@ testimonial:
   enable: true
   title: Customer Voices
   bg_image: images/jellyfish_greenish_bg2_thin.jpg
-  bg_image_webp: images/jellyfish_greenish_bg2_thin.webp
+  bg_image_webp: images/jellyfish_greenish_bg2_thin.jpg #webp
   testimonial_item:
     #  - name: Raid Naim
     #    image: images/raid_naim.jpeg
