@@ -452,7 +452,8 @@ a:hover {
   background-attachment: fixed;
 }
 
-@media screen and (max-device-width: 1024px) {
+/*@media screen and (max-device-width: 1024px) {*/
+@supports not (background-attachment: fixed) {
   .bg-2 {
     background-attachment: unset;
   }
@@ -681,7 +682,8 @@ a:hover {
   background-size: cover;
 }
 
-@media screen and (max-device-width: 1024px) {
+/*@media screen and (max-device-width: 1024px) {*/
+@supports not (background-attachment: fixed) {
   .call-to-action {
     background-attachment: unset;
   }
