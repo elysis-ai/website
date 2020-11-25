@@ -452,6 +452,12 @@ a:hover {
   background-attachment: fixed;
 }
 
+@media screen and (max-device-width: 1024px) {
+  .bg-2 {
+    background-attachment: unset;
+  }
+}
+
 .hero-area {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -673,6 +679,12 @@ a:hover {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+@media screen and (max-device-width: 1024px) {
+  .call-to-action {
+    background-attachment: unset;
+  }
 }
 
 .call-to-action h2, .call-to-action h3 {
