@@ -448,13 +448,15 @@ a:hover {
 
 .bg-2 {
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 
-/*@media screen and (max-device-width: 1024px) {*/
-@supports (background-attachment: fixed) {
+/* Fixes for iOS Safari */
+/*@supports (background-attachment: fixed) { <- won't work, because iOS 'thinks' it understands it */
+@supports (-webkit-overflow-scrolling: touch) {
   .bg-2 {
-    background-attachment: fixed;
+    background-attachment: unset;
   }
 }
 
@@ -674,16 +676,18 @@ a:hover {
 ==================================================================*/
 .call-to-action {
   background-color: #b3b3b3; /*Backup for IPhones etc.*/
+  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-/*@media screen and (max-device-width: 1024px) {*/
-@supports (background-attachment: fixed) {
+/* Fixes for iOS Safari */
+/*@supports (background-attachment: fixed) { <- won't work, because iOS 'thinks' it understands it */
+@supports (-webkit-overflow-scrolling: touch) {
   .call-to-action {
-    background-attachment: fixed;
+    background-attachment: unset;
   }
 }
 
