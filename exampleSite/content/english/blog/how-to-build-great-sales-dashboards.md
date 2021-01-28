@@ -16,8 +16,6 @@ That process is not only annoying. It is also error-prone and takes hours of you
 
 ## A Cloud Based Sales Dashboard Will Save Hours of Time
 
-{{< download-form-prep >}}
-
 So just imagine the following: You enter the office on a Monday morning. You open your browser. And there they are: all the numbers you need for the meeting with the CEO.
 
 Coming back from the meeting, you open the sales agent view in your dashboard to prepare this afternoon's monthly performance review. At one glance you see the targets and the agent’s current achievements - i.e. all statistics to figure out how to improve the agents' performance.
@@ -53,7 +51,7 @@ Let’s take look at the steps to build a great sales dashboard that makes sure 
 On the way to the ideal dashboard we usually use our Dashboard-Framework. It contains various checklists, dashboard templates and examples of great sales dashboard.
 It helps you throughout the entire process from collecting relevant information to making sure nothing is overseen.
 
-{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+{{< download-form link="https://gateway.automizy.com/v2/forms/embed/065c44fcA18f8A451aAbad5A6767d750f60c/PobnB-flfg8-F2wre5yZ24apM1Q">}}
 Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
@@ -73,7 +71,7 @@ To get started you need to answer 3 simple questions:
 
 In the Dashboard-Framework you will find a checklist walking you through the relevant questions. It can be used to document the results of your findings.
 
-{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+{{< download-form link="https://gateway.automizy.com/v2/forms/embed/065c44fcA18f8A451aAbad5A6767d750f60c/PobnB-flfg8-F2wre5yZ24apM1Q">}}
 Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
@@ -117,7 +115,7 @@ In other words, more than one data source holds the desired data.
 
 Go through all of your KPIs and list the data sources and ideally the person responsible for them. If you need a template to do so, you can use our framework:
 
-{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+{{< download-form link="https://gateway.automizy.com/v2/forms/embed/065c44fcA18f8A451aAbad5A6767d750f60c/PobnB-flfg8-F2wre5yZ24apM1Q">}}
 Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
@@ -188,7 +186,7 @@ Think of your dashboard as a product that you need to sell to your users. Try to
 
 In our free "Dashboard-Framework" you find some sales dashboard examples for inspiration.
 
-{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+{{< download-form link="https://gateway.automizy.com/v2/forms/embed/065c44fcA18f8A451aAbad5A6767d750f60c/PobnB-flfg8-F2wre5yZ24apM1Q">}}
 Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
@@ -214,7 +212,7 @@ If your company is not working with Google products, however, you might have to 
 
 In our free Dashboard-Framework you will find a detailed comparison of different tools including a short description, pricing information and pros and cons.
 
-{{< download-form id1="f0a3b9767df7ef338b9d7c8d5c443ebf" id2="c9190e4d">}}
+{{< download-form link="https://gateway.automizy.com/v2/forms/embed/065c44fcA18f8A451aAbad5A6767d750f60c/PobnB-flfg8-F2wre5yZ24apM1Q">}}
 Get your free copy of our Dashboard-Framework here
 {{</ download-form >}}
 
@@ -265,4 +263,6 @@ If you would like to learn more about how your data and machine learning can hel
 A sales dashboard is a first step in profiting from data. To create the best possible dashboards, we support our clients throughout all steps of the process described above.
 At Altura.ai we combine deep technological expertise with a strong track record of management and business consulting and combine both worlds for the profit of our clients.
 
-If you would like to know how we can help you with this and other data and machine learning projects, we offer a free-of-charge initial assessment of your situation. [Simply book a call with here!](https://calendly.com/altura-ai/30min)
+If you would like to know how we can help you with this and other data and machine learning projects, we offer a free-of-charge initial assessment of your situation. [Simply book a call with here!](https://calendly.com/altura-ai/discovery)
+
+{{< download-form-prep >}}
