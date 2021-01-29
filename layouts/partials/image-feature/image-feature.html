@@ -1,0 +1,9 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.image_feature.image_feature.enable }}
+{{ with $data.image_feature.image_feature }}
+
+	{{ partial "image-feature/image-feature-base.html" . }}
+
+{{ end }}
+{{ end }}

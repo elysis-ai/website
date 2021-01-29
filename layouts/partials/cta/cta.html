@@ -1,0 +1,9 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.cta.cta.enable}}
+{{ with $data.cta.cta}}
+
+	{{ partial "cta/cta-base.html" . }}
+
+{{ end }}
+{{ end }}

@@ -1,0 +1,7 @@
+{{ if .Params.about.enable }}
+{{ with .Params.about }}
+
+	{{ partial "about/about-base.html" . }}
+
+{{end}}
+{{end}}

@@ -1,8 +1,9 @@
 ---
-ml_use_cases:
+image_feature:
   enable: true
+  id: ml_use_cases
   title: What AI Can Do
-  ml_use_case_item:
+  image_feature_item:
   - title: Logistics
     subtitle: Track items visually
     image: images/airport_baggages_filter.jpg

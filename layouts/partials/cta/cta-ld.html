@@ -1,0 +1,7 @@
+{{ if .Params.cta.enable }}
+{{ with .Params.cta }}
+
+	{{ partial "cta/cta-base.html" . }}
+
+{{end}}
+{{end}}

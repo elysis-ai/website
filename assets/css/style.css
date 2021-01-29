@@ -672,6 +672,24 @@ a:hover {
 }
 
 /*=================================================================
+  Offer section (landingpages)
+==================================================================*/
+
+.offer-area:before {
+  content: '';
+  background: rgba(0, 0, 0, 0.63);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.offer-contact-box {
+  background: #242930dd !important;
+}
+
+/*=================================================================
  Call To Action 1
 ==================================================================*/
 .call-to-action {
@@ -825,7 +843,7 @@ a:hover {
 .counters-item {
   padding: 25px 0;
   margin-bottom: 10px;
-  background: #292F36;
+  background: #292F36dd;
 }
 
 .counters-item i {
@@ -842,8 +860,16 @@ a:hover {
 }
 
 .counters-item h3 {
-  font-size: 20px;
+  font-size: 18px;
+  margin: 10px;
+  font-weight: 400;
+  color: #afbac4;
+}
+
+.counters-item p {
+  font-size: 13px;
   margin: 0;
+  color: #737f8a;
 }
 
 /*=================================================================

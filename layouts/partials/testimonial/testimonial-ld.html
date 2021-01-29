@@ -1,0 +1,7 @@
+{{ if .Params.testimonial.enable }}
+{{ with .Params.testimonial }}
+
+	{{ partial "testimonial/testimonial-base.html" . }}
+
+{{ end }}
+{{ end }}

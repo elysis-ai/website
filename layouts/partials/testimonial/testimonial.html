@@ -1,0 +1,9 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.testimonial.testimonial.enable }}
+{{ with $data.testimonial.testimonial }}
+
+	{{ partial "testimonial/testimonial-base.html" . }}
+
+{{ end }}
+{{ end }}

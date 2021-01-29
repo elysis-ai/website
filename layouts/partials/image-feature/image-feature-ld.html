@@ -1,0 +1,7 @@
+{{ if .Params.image_feature.enable }}
+{{ with .Params.image_feature }}
+
+	{{ partial "image-feature/image-feature-base.html" . }}
+
+{{ end }}
+{{ end }}
