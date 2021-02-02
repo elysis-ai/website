@@ -42,20 +42,20 @@ image_feature:
   image_feature_item:
     - title: Expertise
       subtitle: Frischer Blick, langjährige Erfahrung
-      image: images/airport_baggages_filter.jpg
-      image_webp: images/airport_baggages_filter.webp
+      image: images/workshop.jpg
+      image_webp: images/workshop.jpg
       content: Wir unterstützen Sie auf Basis unserer Erfahrung im Aufbau digitaler Startups und Management Informationssystemen.
 
     - title: Technologien
       subtitle: Zukunftsmusik ins Unternehmen holen
-      image: images/email_slack_laptop_filter.jpg
-      image_webp: images/email_slack_laptop_filter.webp
+      image: images/future_tech.jpg
+      image_webp: images/future_tech.jpg
       content: Setzen sie mit uns Projekte um, die Ihr Unternehmen auf technologischer Seite nachhaltig zukunftssicher machen.
 
     - title: Zeitpunkt
       subtitle: Mehr genau richtig, weniger zuspät
-      image: images/woman_with_smartphone_smiling_filter.jpg
-      image_webp: images/woman_with_smartphone_smiling_filter.webp
+      image: images/coding_expertise.jpg
+      image_webp: images/coding_expertise.jpg
       content: Die Zeit ist reif für intelligentere Analysen, bessere Werkzeuge und mehr Transparenz bei Homeoffice und co.
 
 cta:
@@ -82,4 +82,25 @@ cta:
     - icon : ti-user # themify icon pack : https://themify.me/themify-icons
       title : Direkte Umsetzung
       content : Unsere Experten stehen ihnen schnellstmöglich zur Seite.
+
+contact:
+  enable: true
+  title: Unser Kontakt
+  contact_buttons:
+  - icon: ti-calendar
+    link: https://calendly.com/altura-ai/discovery
+    title: INTRO CALL
+    text: Book Free Intro Call
+  - icon: ti-email
+    link: mailto:info@altura.ai
+    title: EMAIL
+    text: info@altura.ai
+  - icon: ti-linkedin
+    link: https://www.linkedin.com/company/altura-ai
+    title: LINKEDIN
+    text: Let's Connect Today
+  - icon: ti-mobile
+    link: tel:+492519811562756
+    title: PHONE
+    text: "+49 251 981 156 275 6"
 ---

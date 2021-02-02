@@ -1,7 +1,3 @@
-{{ $data := index site.Data site.Language.Lang }}
-
-{{ if $data.contact.contact.enable }}
-{{ with $data.contact.contact }}
 {{"<!-- Start Contact Us -->" | safeHTML}}
 <section id="contact" class="contact-us section-bg">
 	<div class="container pb-5">
@@ -39,5 +35,3 @@
 	</div>
 </section>
 {{"<!-- /contact -->" | safeHTML}}
-{{ end }}
-{{ end }}

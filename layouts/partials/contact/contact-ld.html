@@ -1,0 +1,7 @@
+{{ if .Params.contact.enable }}
+{{ with .Params.contact }}
+
+  {{ partial "contact/contact-base.html" . }}
+
+{{ end }}
+{{ end }}
