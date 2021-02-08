@@ -13,16 +13,16 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/johanneshollmann/
-  - name: Johanna Appel
-    image_webp: images/ja_square_nobg.webp
-    image: images/ja_square_nobg.png
-    designation: CEO/Founder
-    content: Johanna is a machine learning engineer with a background in IT, mathematics
-      and innovation management. She developed complex software systems and intelligent
-      applications for international organizations.
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/johannaappel/
+      #  - name: Johanna Appel
+      #    image_webp: images/ja_square_nobg.webp
+      #    image: images/ja_square_nobg.png
+      #    designation: CEO/Founder
+      #    content: Johanna is a machine learning engineer with a background in IT, mathematics
+      #      and innovation management. She developed complex software systems and intelligent
+      #      applications for international organizations.
+      #    social:
+      #    - icon: ti-linkedin
+      #      link: https://www.linkedin.com/in/johannaappel/
   - name: Darina Onoprienko
     image_webp: images/do_square_nobg.webp
     image: images/do_square_nobg.png
