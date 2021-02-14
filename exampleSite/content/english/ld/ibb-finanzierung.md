@@ -7,9 +7,10 @@ banner:
   title: Berlin ist bereit - für Ihr datengetriebenes Unternehmen.
   content: Noch bis Ende März 2021 die Digitalprämie der IBB nutzen und aus Ihren Unternehmensdaten echten Mehrwert generieren
   button:
-    enable: false
-    label: Learn more
-    link: "#ml_use_cases"
+    enable: true
+    label: Zum Informationsgespräch
+    link: https://calendly.com/altura-ai/discovery
+
 
 offer:
   enable: true
