@@ -53,13 +53,13 @@ team:
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/laura-drasovean-5983a3171/
-  - name: Leon Lowitzki
-    image_webp: images/LL_profile_nobg.webp
-    image: images/LL_profile_nobg.png
-    designation: Data Science Expert
-    content: Leon specializes in big data analysis and machine learning at scale.
-      In one of his projects, he created a motion sensor-based authentication mechanism.
-      Leon also teaches Data Science at the HWR Berlin.
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/leon-lowitzki/
+      #  - name: Leon Lowitzki
+      #    image_webp: images/LL_profile_nobg.webp
+      #    image: images/LL_profile_nobg.png
+      #    designation: Data Science Expert
+      #    content: Leon specializes in big data analysis and machine learning at scale.
+      #      In one of his projects, he created a motion sensor-based authentication mechanism.
+      #      Leon also teaches Data Science at the HWR Berlin.
+      #    social:
+      #    - icon: ti-linkedin
+      #      link: https://www.linkedin.com/in/leon-lowitzki/
